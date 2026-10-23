@@ -1,11 +1,13 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
-import type { ViewData, ViewEpisode } from "./view.js";
+import { discover } from "./discover.js";
+import type { ViewData, ViewEpisode, ViewFound } from "./view.js";
 
 // kind 省略時は RSS。"rookie" はジャンプルーキーの作品ページ(HTML)を読む
 type Series = { name: string; feed: string; kind?: "rookie" };
-type Episode = { guid: string; series: string; title: string; url: string; date?: string };
-type State = { feeds: Record<string, string[]> };
+// tag は新連載・読切(登録していない作品の通知)のとき。guid はその話のURL
+type Episode = { guid: string; series: string; title: string; url: string; date?: string; tag?: string };
+type State = { feeds: Record<string, string[]>; discovery?: string[] };
 
 const STATE_PATH = new URL("../state/seen.json", import.meta.url);
 const VIEW_PATH = new URL("../state/episodes.json", import.meta.url);
@@ -13,6 +15,9 @@ const CONFIG_PATH = new URL("../config/series.json", import.meta.url);
 const MAX_SEEN_PER_FEED = 200;
 const DIGEST_CHUNK = 20;
 const VIEW_EPISODES = 5;
+const MAX_DISCOVERY = 2000;
+const VIEW_FOUND = 30;
+const TAG_LABEL = { new: "新連載", oneshot: "読切" } as const;
 
 const UA = { "User-Agent": "my-manga-kissa/0.1 (personal use)" };
 
@@ -49,6 +54,9 @@ async function fetchRookie(s: Series): Promise<Episode[]> {
 
 const fetchEpisodes = (s: Series) => (s.kind === "rookie" ? fetchRookie(s) : fetchRss(s));
 
+// Markdownのリンク文字列に [ ] があると壊れるので、全角にする
+const mdText = (t: string) => t.replace(/\[/g, "［").replace(/\]/g, "］");
+
 async function notifyDigest(eps: Episode[]): Promise<void> {
   const topic = process.env.NTFY_TOPIC;
   if (!topic) throw new Error("NTFY_TOPIC is not set");
@@ -59,7 +67,9 @@ async function notifyDigest(eps: Episode[]): Promise<void> {
     body: JSON.stringify({
       topic,
       title: eps.length === 1 ? eps[0].series : `新着 ${eps.length}話`,
-      message: eps.map((e) => `- [${e.title.includes(e.series) ? e.title : `${e.series} ${e.title}`}](${e.url})`).join("\n"),
+      message: eps
+        .map((e) => `- ${e.tag ? `【${e.tag}】` : ""}[${mdText(e.title.includes(e.series) ? e.title : `${e.series} ${e.title}`)}](${e.url})`)
+        .join("\n"),
       markdown: true,
       click: eps.length === 1 ? eps[0].url : undefined,
       tags: ["books"],
@@ -114,6 +124,28 @@ async function main() {
     pending.push(...episodes.filter((e) => !seen.has(e.guid)));
   }
 
+  // 登録していない作品の新連載・読切。初回(既読リストが無いとき)は通知せず登録だけする
+  const watched = new Set(series.map((s) => s.name));
+  const { found, failed: discoverFailed } = await discover();
+  const nextDiscovery = [...(state.discovery ?? [])];
+  const knownKeys = new Set(nextDiscovery);
+  const freshFound = found.filter((f) => !knownKeys.has(f.key));
+  const seedingDiscovery = !state.discovery;
+  const viewFound: ViewFound[] = freshFound.map((f) => ({ ...f, firstSeen: seedingDiscovery ? null : now }));
+  if (seedingDiscovery) {
+    nextDiscovery.push(...freshFound.map((f) => f.key));
+    console.log(`seeded discovery: ${freshFound.length}`);
+  } else {
+    for (const f of freshFound) {
+      // 登録済みの作品の話は、作品ごとの通知で届くので除く
+      if (f.kind === "new" && watched.has(f.series)) nextDiscovery.push(f.key);
+      else pending.push({ guid: f.key, series: f.series, title: f.title, url: f.url, tag: TAG_LABEL[f.kind] });
+    }
+  }
+  const shown = viewFound.filter((f) => !(f.kind === "new" && watched.has(f.series)));
+  const shownKeys = new Set(shown.map((f) => f.key));
+  view.found = [...shown, ...(prevView.found ?? []).filter((f) => !shownKeys.has(f.key))].slice(0, VIEW_FOUND);
+
   // 通知に失敗した話は既読にせず、次回に再試行する
   const feedOf = new Map(series.map((s) => [s.name, s.feed]));
   for (let i = 0; i < pending.length; i += DIGEST_CHUNK) {
@@ -125,15 +157,15 @@ async function main() {
       console.error(`notify failed (${chunk.length} episodes)`, e);
       continue;
     }
-    for (const ep of chunk) nextFeeds[feedOf.get(ep.series)!].push(ep.guid);
+    for (const ep of chunk) (ep.tag ? nextDiscovery : nextFeeds[feedOf.get(ep.series)!]).push(ep.guid);
   }
   for (const feed of Object.keys(nextFeeds)) nextFeeds[feed] = nextFeeds[feed].slice(-MAX_SEEN_PER_FEED);
 
   // 取得に失敗した作品は、前回の表示データを残す
   for (const s of series) view.series[s.feed] ??= prevView.series[s.feed];
   await writeFile(VIEW_PATH, JSON.stringify(view, null, 1) + "\n");
-  await writeFile(STATE_PATH, JSON.stringify({ feeds: nextFeeds }, null, 1) + "\n");
-  if (failed.length) console.error(`failed feeds: ${failed.join(", ")}`);
+  await writeFile(STATE_PATH, JSON.stringify({ feeds: nextFeeds, discovery: nextDiscovery.slice(-MAX_DISCOVERY) }, null, 1) + "\n");
+  if (failed.length || discoverFailed.length) console.error(`failed: ${[...failed, ...discoverFailed].join(", ")}`);
 }
 
 main().catch((e) => {

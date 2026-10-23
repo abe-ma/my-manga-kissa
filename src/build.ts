@@ -1,5 +1,5 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
-import type { ViewData, ViewEpisode } from "./view.js";
+import type { ViewData, ViewEpisode, ViewFound } from "./view.js";
 
 type Series = { name: string; feed: string };
 
@@ -39,6 +39,17 @@ function card(name: string, site: string, eps: ViewEpisode[], now: number): stri
   }
   ${older.length ? `<details><summary>過去の話</summary><ul>${older.map(li).join("")}</ul></details>` : ""}
 </article>`;
+}
+
+const KIND_LABEL = { new: "新連載", oneshot: "読切" } as const;
+
+function foundSection(found: ViewFound[], now: number): string {
+  if (!found.length) return "";
+  const row = (f: ViewFound) => {
+    const isNew = f.firstSeen ? now - Date.parse(f.firstSeen) < NEW_WITHIN_MS : false;
+    return `<li><span class="kind ${f.kind}">${KIND_LABEL[f.kind]}</span><a href="${esc(f.url)}" rel="noopener">${esc(f.title)}</a>${isNew ? '<span class="new">NEW</span>' : ""}<span class="site">${esc(f.site)}</span></li>`;
+  };
+  return `<section class="found"><details open><summary>新連載・読切 <small>(${found.length})</small></summary><ul>${found.map(row).join("")}</ul></details></section>`;
 }
 
 async function main() {
@@ -94,6 +105,13 @@ li{display:flex;justify-content:space-between;gap:12px;padding:3px 0;border-top:
 li a{color:var(--text);text-decoration:none}
 li a:hover{text-decoration:underline}
 .empty{margin:0;color:var(--sub);font-size:14px}
+.found{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin-bottom:12px}
+.found summary{font-weight:600;color:var(--text);font-size:15px}
+.found li{align-items:center;justify-content:flex-start;flex-wrap:wrap;gap:8px}
+.found li a{flex:1 1 12em;min-width:0}
+.found .site{color:var(--sub);font-size:12px}
+.kind{font-size:11px;font-weight:700;padding:0 8px;border-radius:999px;border:1px solid var(--accent);color:var(--accent);white-space:nowrap}
+.kind.oneshot{border-color:var(--sub);color:var(--sub)}
 </style>
 </head>
 <body>
@@ -103,6 +121,7 @@ li a:hover{text-decoration:underline}
 <button type="button" aria-pressed="true" data-filter="">すべて</button>
 ${sites.map((x) => `<button type="button" aria-pressed="false" data-filter="${esc(x)}">${esc(x)}</button>`).join("\n")}
 </div>
+${foundSection(view.found ?? [], now)}
 ${rows.map((r) => card(r.s.name, r.site, r.eps, now)).join("\n")}
 </main>
 <script>
