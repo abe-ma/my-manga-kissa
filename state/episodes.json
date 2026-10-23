@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T07:13:07.834Z",
+ "updatedAt": "2026-10-23T12:18:49.930Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1034,5 +1034,124 @@
     }
    ]
   }
- }
+ },
+ "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257382361377",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "踊り子",
+   "title": "踊り子",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361377",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257382361268",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "アコーディオン弾き",
+   "title": "アコーディオン弾き",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361268",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257382361255",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "夏の嵐がやってくる！／MANGA Plus Creators by SHUEISHA",
+   "title": "夏の嵐がやってくる！／MANGA Plus Creators by SHUEISHA",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361255",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257382360962",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "カミサマノ弔イ",
+   "title": "カミサマノ弔イ",
+   "url": "https://shonenjumpplus.com/episode/9253191257382360962",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257382360932",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "縁怪／26年8月期JUMP新世界漫画賞／週刊少年ジャンプ",
+   "title": "縁怪／26年8月期JUMP新世界漫画賞／週刊少年ジャンプ",
+   "url": "https://shonenjumpplus.com/episode/9253191257382360932",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257227140714",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "パーフェクト・テオ",
+   "title": "パーフェクト・テオ",
+   "url": "https://shonenjumpplus.com/episode/9253191257227140714",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257232010936",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "みーちゃんは飼われたい",
+   "title": "[第1話]みーちゃんは飼われたい",
+   "url": "https://shonenjumpplus.com/episode/9253191257232010936",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257288002492",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "姉のともだち",
+   "title": "[第1話]姉のともだち",
+   "url": "https://shonenjumpplus.com/episode/9253191257288002492",
+   "firstSeen": null
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257288003944",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "GANTZ:E",
+   "title": "[第1話]GANTZ:E",
+   "url": "https://shonenjumpplus.com/episode/9253191257288003944",
+   "firstSeen": null
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984388071220",
+   "kind": "oneshot",
+   "site": "サンデーうぇぶり",
+   "series": "雪を許すな",
+   "title": "雪を許すな",
+   "url": "https://www.sunday-webry.com/episode/12207421984388071220",
+   "firstSeen": null
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984388065876",
+   "kind": "oneshot",
+   "site": "サンデーうぇぶり",
+   "series": "第107魔獣戦線の騎士団～フトシ・オデッセイ～",
+   "title": "第107魔獣戦線の騎士団～フトシ・オデッセイ～",
+   "url": "https://www.sunday-webry.com/episode/12207421984388065876",
+   "firstSeen": null
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984374812911",
+   "kind": "new",
+   "site": "サンデーうぇぶり",
+   "series": "オニあに！",
+   "title": "第1話 オニくる！",
+   "url": "https://www.sunday-webry.com/episode/12207421984374812911",
+   "firstSeen": null
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984382605154",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "ウマ娘 シンデレラグレイ外伝",
+   "title": "[特別読切] ウマ娘 シンデレラグレイ外伝 挽回～The Hare and the Tortoise～",
+   "url": "https://tonarinoyj.jp/episode/12207421984382605154",
+   "firstSeen": null
+  }
+ ]
 }
