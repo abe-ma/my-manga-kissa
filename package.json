@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "check": "tsc --noEmit",
-    "start": "tsx src/main.ts"
+    "start": "tsx src/main.ts",
+    "build": "tsx src/build.ts"
   },
   "dependencies": {
     "fast-xml-parser": "^5.0.0"

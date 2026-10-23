@@ -1,15 +1,18 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
+import type { ViewData, ViewEpisode } from "./view.js";
 
 // kind 省略時は RSS。"rookie" はジャンプルーキーの作品ページ(HTML)を読む
 type Series = { name: string; feed: string; kind?: "rookie" };
-type Episode = { guid: string; series: string; title: string; url: string };
+type Episode = { guid: string; series: string; title: string; url: string; date?: string };
 type State = { feeds: Record<string, string[]> };
 
 const STATE_PATH = new URL("../state/seen.json", import.meta.url);
+const VIEW_PATH = new URL("../state/episodes.json", import.meta.url);
 const CONFIG_PATH = new URL("../config/series.json", import.meta.url);
 const MAX_SEEN_PER_FEED = 200;
 const DIGEST_CHUNK = 20;
+const VIEW_EPISODES = 5;
 
 const UA = { "User-Agent": "my-manga-kissa/0.1 (personal use)" };
 
@@ -23,6 +26,7 @@ async function fetchRss(s: Series): Promise<Episode[]> {
     series: s.name,
     title: String(i.title),
     url: String(i.link),
+    date: i.pubDate ? new Date(String(i.pubDate)).toISOString() : undefined,
   }));
 }
 
@@ -37,6 +41,7 @@ async function fetchRookie(s: Series): Promise<Episode[]> {
       /data-episode-id="(\d+)"[\s\S]*?<a class="episode-content" href="([^"]+)"[\s\S]*?class="episode-title">([^<]*)</g,
     ),
   ].map((m) => ({ guid: m[1], series: s.name, title: m[3].replace(/\s+/g, " ").trim(), url: origin + m[2] }));
+  episodes.reverse(); // ページは古い順なので、RSSと同じ新しい順にそろえる
   // 0件はページ構造の変更を疑い、「新着なし」と区別するためエラーにする
   if (episodes.length === 0) throw new Error("no episodes found (page layout changed?)");
   return episodes;
@@ -70,6 +75,9 @@ async function main() {
   const pending: Episode[] = [];
   const nextFeeds: Record<string, string[]> = {};
   const failed: string[] = [];
+  const prevView: ViewData = await readFile(VIEW_PATH, "utf8").then(JSON.parse, () => ({ series: {} }));
+  const now = new Date().toISOString();
+  const view: ViewData = { updatedAt: now, series: {} };
 
   for (const s of series) {
     const known = state.feeds[s.feed];
@@ -84,6 +92,18 @@ async function main() {
       continue;
     }
     const guids = episodes.map((e) => e.guid);
+    const prevEps = new Map(prevView.series[s.feed]?.episodes.map((e) => [e.guid, e]));
+    view.series[s.feed] = {
+      name: s.name,
+      episodes: episodes.slice(0, VIEW_EPISODES).map((e): ViewEpisode => ({
+        guid: e.guid,
+        title: e.title,
+        url: e.url,
+        date: e.date ?? null,
+        // 既読済みの話は、いつ見つけたか分からないので null にする(新着だけ現在時刻)
+        firstSeen: prevEps.get(e.guid)?.firstSeen ?? (known && !known.includes(e.guid) ? now : null),
+      })),
+    };
     if (!known) {
       // 新規に追加した作品は、既存の話を通知せず登録だけする
       nextFeeds[s.feed] = guids;
@@ -109,6 +129,9 @@ async function main() {
   }
   for (const feed of Object.keys(nextFeeds)) nextFeeds[feed] = nextFeeds[feed].slice(-MAX_SEEN_PER_FEED);
 
+  // 取得に失敗した作品は、前回の表示データを残す
+  for (const s of series) view.series[s.feed] ??= prevView.series[s.feed];
+  await writeFile(VIEW_PATH, JSON.stringify(view, null, 1) + "\n");
   await writeFile(STATE_PATH, JSON.stringify({ feeds: nextFeeds }, null, 1) + "\n");
   if (failed.length) console.error(`failed feeds: ${failed.join(", ")}`);
 }
