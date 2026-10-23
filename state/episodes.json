@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T12:18:49.930Z",
+ "updatedAt": "2026-10-23T15:30:09.075Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1036,6 +1036,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257382361538",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "闇捨て穴",
+   "title": "[第1話]闇捨て穴",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361538",
+   "firstSeen": "2026-10-23T15:30:09.075Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257382361377",
    "kind": "oneshot",
