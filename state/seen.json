@@ -687,7 +687,8 @@
    "comicdays:episode:12207421983858385558",
    "comicdays:episode:12207421983858385555",
    "comicdays:episode:12207421983858385550",
-   "comicdays:episode:12207421983858385545"
+   "comicdays:episode:12207421983858385545",
+   "comicdays:episode:12207421983858385578"
   ],
   "https://mgpk-cdn.magazinepocket.com/static/rss/3335/feed.xml": [
    "445657",
@@ -1017,7 +1018,34 @@
    "5578366928872673805",
    "5578366928873276413",
    "5578366928873316672"
-  ]
+  ],
+  "https://shonenjumpplus.com/rss/series/17107094912731745089": [
+   "jump_plus:episode:9253191257382361613",
+   "jump_plus:episode:9253191257069548603",
+   "jump_plus:episode:9253191256672026054",
+   "jump_plus:episode:9253191256479734399",
+   "jump_plus:episode:9253191256195090159",
+   "jump_plus:episode:9253191255729394102",
+   "jump_plus:episode:9253191255561726125",
+   "jump_plus:episode:9253191255124422272",
+   "jump_plus:episode:9253191254783402898",
+   "jump_plus:episode:9253191254500135936",
+   "jump_plus:episode:9253191254199645961",
+   "jump_plus:episode:9253189534697938685",
+   "jump_plus:episode:17107419589696004804",
+   "jump_plus:episode:17107419589372004236",
+   "jump_plus:episode:17107094915405397613",
+   "jump_plus:episode:17107094915098862485",
+   "jump_plus:episode:17107094914778813795",
+   "jump_plus:episode:17107094914454640770",
+   "jump_plus:episode:17107094914107074286",
+   "jump_plus:episode:17107094913779622715",
+   "jump_plus:episode:17107094913049140701",
+   "jump_plus:episode:17107094912913096874",
+   "jump_plus:episode:17107094912913092838",
+   "jump_plus:episode:17107094912731880261"
+  ],
+  "https://younganimal.com/series/5194e06f961ab": []
  },
  "discovery": [
   "https://shonenjumpplus.com/episode/9253191257382361377",

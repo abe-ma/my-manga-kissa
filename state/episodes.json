@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T01:52:33.267Z",
+ "updatedAt": "2026-10-25T14:37:01.329Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -878,6 +878,13 @@
    "name": "ポッピン・ポッピン・ペナルティ",
    "episodes": [
     {
+     "guid": "comicdays:episode:12207421983858385578",
+     "title": "第１０話　わたしは生涯の終わりに貴石に触れるのだ",
+     "url": "https://comic-days.com/episode/12207421983858385578",
+     "date": "2026-10-25T03:00:00.000Z",
+     "firstSeen": "2026-10-25T14:37:01.329Z"
+    },
+    {
      "guid": "comicdays:episode:12207421983858385573",
      "title": "第９話　がんばれ　トマト！",
      "url": "https://comic-days.com/episode/12207421983858385573",
@@ -903,13 +910,6 @@
      "title": "第６話　гипноза②",
      "url": "https://comic-days.com/episode/12207421983858385564",
      "date": "2026-08-30T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "comicdays:episode:12207421983858385561",
-     "title": "第５話　гипноза①",
-     "url": "https://comic-days.com/episode/12207421983858385561",
-     "date": "2026-08-16T03:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1030,6 +1030,46 @@
      "title": "第 117 話",
      "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpY1Y3o",
      "date": null,
+     "firstSeen": null
+    }
+   ]
+  },
+  "https://shonenjumpplus.com/rss/series/17107094912731745089": {
+   "name": "羽鳥と古田の非日常茶飯事",
+   "episodes": [
+    {
+     "guid": "jump_plus:episode:9253191257382361613",
+     "title": "[第24話]羽鳥と古田の非日常茶飯事",
+     "url": "https://shonenjumpplus.com/episode/9253191257382361613",
+     "date": "2026-10-23T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191257069548603",
+     "title": "[第23話]羽鳥と古田の非日常茶飯事",
+     "url": "https://shonenjumpplus.com/episode/9253191257069548603",
+     "date": "2026-10-09T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191256672026054",
+     "title": "[第22話]羽鳥と古田の非日常茶飯事",
+     "url": "https://shonenjumpplus.com/episode/9253191256672026054",
+     "date": "2026-09-25T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191256479734399",
+     "title": "[第21話]羽鳥と古田の非日常茶飯事",
+     "url": "https://shonenjumpplus.com/episode/9253191256479734399",
+     "date": "2026-09-11T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191256195090159",
+     "title": "[第20話]羽鳥と古田の非日常茶飯事",
+     "url": "https://shonenjumpplus.com/episode/9253191256195090159",
+     "date": "2026-08-28T15:00:00.000Z",
      "firstSeen": null
     }
    ]
