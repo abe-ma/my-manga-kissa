@@ -3,8 +3,8 @@ import { XMLParser } from "fast-xml-parser";
 import { discover } from "./discover.js";
 import type { ViewData, ViewEpisode, ViewFound } from "./view.js";
 
-// kind 省略時は RSS。"rookie" はジャンプルーキーの作品ページ(HTML)を読む
-type Series = { name: string; feed: string; kind?: "rookie" };
+// kind 省略時は RSS。"rookie" はジャンプルーキー、"comici" はヤングアニマルWebの作品ページを読む
+type Series = { name: string; feed: string; kind?: "rookie" | "comici" };
 // tag は新連載・読切(登録していない作品の通知)のとき。guid はその話のURL
 type Episode = { guid: string; series: string; title: string; url: string; date?: string; tag?: string };
 type State = { feeds: Record<string, string[]>; discovery?: string[] };
@@ -52,7 +52,47 @@ async function fetchRookie(s: Series): Promise<Episode[]> {
   return episodes;
 }
 
-const fetchEpisodes = (s: Series) => (s.kind === "rookie" ? fetchRookie(s) : fetchRss(s));
+// ヤングアニマルWeb(Next.js)はRSSが無いので、作品ページに埋め込まれた最新5話のデータを読む
+async function fetchComici(s: Series): Promise<Episode[]> {
+  const res = await fetch(s.feed, { headers: UA });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
+  const origin = new URL(s.feed).origin;
+  const payload = [...html.matchAll(/self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)/g)].map((m) => JSON.parse(m[1]) as string).join("");
+  const start = payload.indexOf('"tailEpisodes":[');
+  if (start < 0) throw new Error("tailEpisodes not found (page layout changed?)");
+  const arr = extractJsonArray(payload, start + '"tailEpisodes":'.length);
+  const episodes = (arr as unknown[])
+    .filter((e): e is { id: string; title: string; datePublished: number } => typeof e === "object" && e !== null)
+    .map((e) => ({
+      guid: e.id,
+      series: s.name,
+      title: e.title,
+      url: `${origin}/episodes/${e.id}`,
+      date: new Date(e.datePublished * 1000).toISOString(),
+    }));
+  if (episodes.length === 0) throw new Error("no episodes found (page layout changed?)");
+  return episodes.reverse(); // 古い順なので、新しい順にそろえる
+}
+
+// text[start] の "[" から対応する "]" までをJSONとして読む(文字列中の括弧は数えない)
+function extractJsonArray(text: string, start: number): unknown {
+  let depth = 0;
+  let inString = false;
+  for (let i = start; i < text.length; i++) {
+    const c = text[i];
+    if (inString) {
+      if (c === "\\") i++;
+      else if (c === '"') inString = false;
+    } else if (c === '"') inString = true;
+    else if (c === "[") depth++;
+    else if (c === "]" && --depth === 0) return JSON.parse(text.slice(start, i + 1));
+  }
+  throw new Error("unterminated array");
+}
+
+const fetchEpisodes = (s: Series) =>
+  s.kind === "rookie" ? fetchRookie(s) : s.kind === "comici" ? fetchComici(s) : fetchRss(s);
 
 // Markdownのリンク文字列に [ ] があると壊れるので、全角にする
 const mdText = (t: string) => t.replace(/\[/g, "［").replace(/\]/g, "］");
