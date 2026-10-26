@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T05:28:22.597Z",
+ "updatedAt": "2026-10-26T17:02:06.757Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -638,11 +638,11 @@
    "name": "界変の魔法使い",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984401435279",
-     "title": "其の四十五 界変＜蒼国＞前編",
-     "url": "https://www.sunday-webry.com/episode/12207421984401435279",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984434305922",
+     "title": "其の四十六 界変＜蒼国＞後編",
+     "url": "https://www.sunday-webry.com/episode/12207421984434305922",
+     "date": "2026-10-26T15:00:00.000Z",
+     "firstSeen": "2026-10-26T17:02:06.757Z"
     },
     {
      "guid": "sunday_webry:episode:2550912964724252271",
@@ -791,11 +791,11 @@
    "name": "#ギャルとギャルの百合",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984355309024",
-     "title": "#28 #全員オタク？",
-     "url": "https://www.sunday-webry.com/episode/12207421984355309024",
-     "date": "2026-10-12T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984435787565",
+     "title": "#29 #マブになる",
+     "url": "https://www.sunday-webry.com/episode/12207421984435787565",
+     "date": "2026-10-26T15:00:00.000Z",
+     "firstSeen": "2026-10-26T17:02:06.757Z"
     },
     {
      "guid": "sunday_webry:episode:2551460909968584080",
