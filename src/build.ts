@@ -11,7 +11,6 @@ const SITE_LABELS: Record<string, string> = {
   "mgpk-cdn.magazinepocket.com": "マガポケ",
   "pocket.shonenmagazine.com": "マガポケ",
   "rookie.shonenjump.com": "ジャンプルーキー",
-  "younganimal.com": "ヤングアニマルWeb",
 };
 const NEW_WITHIN_MS = 3 * 24 * 3600 * 1000;
 
