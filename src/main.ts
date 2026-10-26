@@ -3,8 +3,9 @@ import { XMLParser } from "fast-xml-parser";
 import { discover } from "./discover.js";
 import type { ViewData, ViewEpisode, ViewFound } from "./view.js";
 
-// kind 省略時は RSS。"rookie" はジャンプルーキー、"comici" はヤングアニマルWebの作品ページを読む
-type Series = { name: string; feed: string; kind?: "rookie" | "comici" };
+// kind 省略時は RSS。"rookie" はジャンプルーキー、"comici" はヤングアニマルWebの作品ページを読む。
+// "magapoke-free" はマガポケの作品ページを見て、無料話の更新を知らせる(話ごとの無料判定はできないため)
+type Series = { name: string; feed: string; kind?: "rookie" | "comici" | "magapoke-free" };
 // tag は新連載・読切(登録していない作品の通知)のとき。guid はその話のURL
 type Episode = { guid: string; series: string; title: string; url: string; date?: string; tag?: string };
 type State = { feeds: Record<string, string[]>; discovery?: string[] };
@@ -21,8 +22,16 @@ const TAG_LABEL = { new: "新連載", oneshot: "読切" } as const;
 
 const UA = { "User-Agent": "my-manga-kissa/0.1 (personal use)" };
 
+// これらのサイトは、無料で読める話だけを返すフィード(?free_only=1)を持つ。
+// 先行公開(有料)の話ではなく、無料になった時点で通知するために使う
+const FREE_ONLY_HOSTS = new Set(["shonenjumpplus.com", "tonarinoyj.jp", "www.sunday-webry.com", "comic-days.com"]);
+
+const toIso = (v: unknown) => (v ? new Date(String(v)).toISOString() : undefined);
+
 async function fetchRss(s: Series): Promise<Episode[]> {
-  const res = await fetch(s.feed, { headers: UA });
+  const url = new URL(s.feed);
+  if (FREE_ONLY_HOSTS.has(url.host)) url.searchParams.set("free_only", "1");
+  const res = await fetch(url, { headers: UA });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const xml = new XMLParser().parse(await res.text());
   const items = [xml.rss.channel.item ?? []].flat();
@@ -31,7 +40,8 @@ async function fetchRss(s: Series): Promise<Episode[]> {
     series: s.name,
     title: String(i.title),
     url: String(i.link),
-    date: i.pubDate ? new Date(String(i.pubDate)).toISOString() : undefined,
+    // 無料になった日時があればそれを、なければ公開日時を使う
+    date: toIso(i["giga:freeTermStartDate"] ?? i.pubDate),
   }));
 }
 
@@ -91,8 +101,41 @@ function extractJsonArray(text: string, start: number): unknown {
   throw new Error("unterminated array");
 }
 
+// マガポケは話ごとの無料/有料が公開ページに無いので、「無料話の件数」と「次回無料更新」の表示が
+// 変わったことを、無料話の更新として扱う(どの話かは分からないので、作品ページへのリンクになる)
+async function fetchMagapokeFree(s: Series): Promise<Episode[]> {
+  const res = await fetch(s.feed, { headers: UA });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
+  const json = html.match(/<script[^>]*id="__NUXT_DATA__"[^>]*>([\s\S]*?)<\/script>/)?.[1];
+  if (!json) throw new Error("__NUXT_DATA__ not found (page layout changed?)");
+  const data = JSON.parse(json) as unknown[];
+  // devalue形式: オブジェクトの値は、配列内の位置(インデックス)で参照されている
+  const info = data.find((v) => typeof v === "object" && v !== null && "free_episode_count" in v) as
+    | Record<string, number>
+    | undefined;
+  if (!info) throw new Error("free_episode_count not found (page layout changed?)");
+  const count = data[info.free_episode_count];
+  const next = String(data[info.next_updated_text] ?? "");
+  if (typeof count !== "number") throw new Error("free_episode_count is not a number");
+  return [
+    {
+      guid: `free:${count}|${next}`,
+      series: s.name,
+      title: `無料話が更新されました(無料${count}話)`,
+      url: s.feed,
+    },
+  ];
+}
+
 const fetchEpisodes = (s: Series) =>
-  s.kind === "rookie" ? fetchRookie(s) : s.kind === "comici" ? fetchComici(s) : fetchRss(s);
+  s.kind === "rookie"
+    ? fetchRookie(s)
+    : s.kind === "comici"
+      ? fetchComici(s)
+      : s.kind === "magapoke-free"
+        ? fetchMagapokeFree(s)
+        : fetchRss(s);
 
 // Markdownのリンク文字列に [ ] があると壊れるので、全角にする
 const mdText = (t: string) => t.replace(/\[/g, "［").replace(/\]/g, "］");
@@ -130,9 +173,11 @@ async function main() {
   const view: ViewData = { updatedAt: now, series: {} };
 
   for (const s of series) {
-    const known = state.feeds[s.feed];
+    // 既読が空のものは、まだ登録されていないものとして扱う(取得に失敗した作品を「既読ゼロ」で保存すると、
+    // 次回に全話が新着として通知されてしまうため)
+    const known = state.feeds[s.feed]?.length ? state.feeds[s.feed] : undefined;
     // 取得失敗でも既存の既読状態は保持する
-    nextFeeds[s.feed] = known ?? [];
+    if (known) nextFeeds[s.feed] = known;
     let episodes: Episode[];
     try {
       episodes = await fetchEpisodes(s);

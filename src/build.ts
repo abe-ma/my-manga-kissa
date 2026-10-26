@@ -9,6 +9,7 @@ const SITE_LABELS: Record<string, string> = {
   "www.sunday-webry.com": "サンデーうぇぶり",
   "comic-days.com": "コミックDAYS",
   "mgpk-cdn.magazinepocket.com": "マガポケ",
+  "pocket.shonenmagazine.com": "マガポケ",
   "rookie.shonenjump.com": "ジャンプルーキー",
   "younganimal.com": "ヤングアニマルWeb",
 };
