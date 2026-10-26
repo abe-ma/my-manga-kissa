@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T01:54:06.244Z",
+ "updatedAt": "2026-10-26T05:24:17.585Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -26,17 +26,17 @@
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256672029126",
-     "title": "[70話]英雄機関",
-     "url": "https://shonenjumpplus.com/episode/9253191256672029126",
-     "date": "2026-09-26T15:00:00.000Z",
+     "guid": "jump_plus:episode:17106567263566705504",
+     "title": "[イラスト2]英雄機関",
+     "url": "https://shonenjumpplus.com/episode/17106567263566705504",
+     "date": "2025-02-22T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256479734499",
-     "title": "[69話]英雄機関",
-     "url": "https://shonenjumpplus.com/episode/9253191256479734499",
-     "date": "2026-09-12T15:00:00.000Z",
+     "guid": "jump_plus:episode:17106567262656708696",
+     "title": "[イラスト]英雄機関",
+     "url": "https://shonenjumpplus.com/episode/17106567262656708696",
+     "date": "2025-01-18T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -73,10 +73,10 @@
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256637716268",
-     "title": "[第16話]神ヨムふたり",
-     "url": "https://shonenjumpplus.com/episode/9253191256637716268",
-     "date": "2026-09-16T15:00:00.000Z",
+     "guid": "jump_plus:episode:9253191254783402671",
+     "title": "[特別編1＋第6.5話]神ヨムふたり",
+     "url": "https://shonenjumpplus.com/episode/9253191254783402671",
+     "date": "2026-07-01T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -186,17 +186,17 @@
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256479733873",
-     "title": "[54話]MAD",
-     "url": "https://shonenjumpplus.com/episode/9253191256479733873",
-     "date": "2026-09-07T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "jump_plus:episode:9253191256195089618",
      "title": "[番外編6]MAD",
      "url": "https://shonenjumpplus.com/episode/9253191256195089618",
      "date": "2026-08-24T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:17107419589696005052",
+     "title": "[番外編5]MAD",
+     "url": "https://shonenjumpplus.com/episode/17107419589696005052",
+     "date": "2026-05-04T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -306,17 +306,17 @@
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256672020365",
-     "title": "[第22話]ブヨトピア",
-     "url": "https://shonenjumpplus.com/episode/9253191256672020365",
-     "date": "2026-09-24T15:00:00.000Z",
+     "guid": "jump_plus:episode:9253191254783402779",
+     "title": "[番外編]ブヨトピア",
+     "url": "https://shonenjumpplus.com/episode/9253191254783402779",
+     "date": "2026-07-02T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256479734230",
-     "title": "[第21話]ブヨトピア",
-     "url": "https://shonenjumpplus.com/episode/9253191256479734230",
-     "date": "2026-09-10T15:00:00.000Z",
+     "guid": "jump_plus:episode:17107094915254021467",
+     "title": "[第3話]ブヨトピア",
+     "url": "https://shonenjumpplus.com/episode/17107094915254021467",
+     "date": "2026-03-26T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -339,24 +339,24 @@
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256784142842",
-     "title": "[第23話]無敵のスバル",
-     "url": "https://shonenjumpplus.com/episode/9253191256784142842",
-     "date": "2026-10-03T15:00:00.000Z",
+     "guid": "jump_plus:episode:17107419589536396687",
+     "title": "[第3話]無敵のスバル",
+     "url": "https://shonenjumpplus.com/episode/17107419589536396687",
+     "date": "2026-04-25T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256672030453",
-     "title": "[第22話]無敵のスバル",
-     "url": "https://shonenjumpplus.com/episode/9253191256672030453",
-     "date": "2026-09-26T15:00:00.000Z",
+     "guid": "jump_plus:episode:17107419589372004279",
+     "title": "[第2話]無敵のスバル",
+     "url": "https://shonenjumpplus.com/episode/17107419589372004279",
+     "date": "2026-04-18T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256479734530",
-     "title": "[第21話]無敵のスバル",
-     "url": "https://shonenjumpplus.com/episode/9253191256479734530",
-     "date": "2026-09-12T15:00:00.000Z",
+     "guid": "jump_plus:episode:17107419589191808095",
+     "title": "[第1話]無敵のスバル",
+     "url": "https://shonenjumpplus.com/episode/17107419589191808095",
+     "date": "2026-04-11T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -645,31 +645,24 @@
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:2550912964814506331",
-     "title": "其の六 魔法使いと弟子",
-     "url": "https://www.sunday-webry.com/episode/2550912964814506331",
-     "date": "2024-10-28T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "sunday_webry:episode:2550912964784909529",
-     "title": "其の五 魔法を使う者たち",
-     "url": "https://www.sunday-webry.com/episode/2550912964784909529",
-     "date": "2024-10-21T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "sunday_webry:episode:2550912964742215885",
-     "title": "其の四 魔法使いの巣",
-     "url": "https://www.sunday-webry.com/episode/2550912964742215885",
-     "date": "2024-10-14T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "sunday_webry:episode:2550912964724252271",
      "title": "其の三 魔法使い殺し",
      "url": "https://www.sunday-webry.com/episode/2550912964724252271",
      "date": "2024-10-07T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "sunday_webry:episode:2550912964694633760",
+     "title": "其の二 魔力と魔法使い",
+     "url": "https://www.sunday-webry.com/episode/2550912964694633760",
+     "date": "2024-09-30T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "sunday_webry:episode:2550912964589053352",
+     "title": "其の一 僕の魔法使い",
+     "url": "https://www.sunday-webry.com/episode/2550912964589053352",
+     "date": "2024-09-10T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -746,10 +739,10 @@
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983853698076",
-     "title": "第23話 三億の女と不穏な動き",
-     "url": "https://www.sunday-webry.com/episode/12207421983853698076",
-     "date": "2026-06-16T15:00:00.000Z",
+     "guid": "sunday_webry:episode:12207421983822038366",
+     "title": "掲示板回その9",
+     "url": "https://www.sunday-webry.com/episode/12207421983822038366",
+     "date": "2026-06-09T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -758,18 +751,18 @@
    "name": "となりの席のヤツがそういう目で見てくる",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984387325811",
-     "title": "コミックス秘蔵イラスト集",
-     "url": "https://www.sunday-webry.com/episode/12207421984387325811",
-     "date": "2026-10-18T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "sunday_webry:episode:12207421984411838051",
      "title": "第117話 もっと",
      "url": "https://www.sunday-webry.com/episode/12207421984411838051",
      "date": "2026-10-25T15:00:00.000Z",
      "firstSeen": "2026-10-26T01:54:06.244Z"
+    },
+    {
+     "guid": "sunday_webry:episode:12207421984387325811",
+     "title": "コミックス秘蔵イラスト集",
+     "url": "https://www.sunday-webry.com/episode/12207421984387325811",
+     "date": "2026-10-18T15:00:00.000Z",
+     "firstSeen": null
     },
     {
      "guid": "sunday_webry:episode:12207421983950593114",
@@ -779,17 +772,17 @@
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983893806225",
-     "title": "第104話 絶景",
-     "url": "https://www.sunday-webry.com/episode/12207421983893806225",
-     "date": "2026-06-28T15:00:00.000Z",
+     "guid": "sunday_webry:episode:12207421983619574272",
+     "title": "蔵出しマル秘イラスト",
+     "url": "https://www.sunday-webry.com/episode/12207421983619574272",
+     "date": "2026-04-19T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983865431076",
-     "title": "第103話 牽制？",
-     "url": "https://www.sunday-webry.com/episode/12207421983865431076",
-     "date": "2026-06-21T15:00:00.000Z",
+     "guid": "sunday_webry:episode:12207421983452544090",
+     "title": "「アニラン2026」祝・第１位！！！！！",
+     "url": "https://www.sunday-webry.com/episode/12207421983452544090",
+     "date": "2026-03-04T06:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -812,24 +805,24 @@
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983906643496",
-     "title": "#18 #育てましょう",
-     "url": "https://www.sunday-webry.com/episode/12207421983906643496",
-     "date": "2026-06-29T15:00:00.000Z",
+     "guid": "sunday_webry:episode:12207421983452545320",
+     "title": "#アニラン #ありがとー♡",
+     "url": "https://www.sunday-webry.com/episode/12207421983452545320",
+     "date": "2026-03-04T06:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983877404304",
-     "title": "#17 #お久しぶりです",
-     "url": "https://www.sunday-webry.com/episode/12207421983877404304",
-     "date": "2026-06-22T15:00:00.000Z",
+     "guid": "sunday_webry:episode:2551460909559824639",
+     "title": "#3 #なんでも知ってるよ",
+     "url": "https://www.sunday-webry.com/episode/2551460909559824639",
+     "date": "2025-09-08T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983849808827",
-     "title": "#16 #生配信",
-     "url": "https://www.sunday-webry.com/episode/12207421983849808827",
-     "date": "2026-06-15T15:00:00.000Z",
+     "guid": "sunday_webry:episode:2551460909559824630",
+     "title": "#2 #記念日",
+     "url": "https://www.sunday-webry.com/episode/2551460909559824630",
+     "date": "2025-09-08T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -859,17 +852,17 @@
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421983834461843",
-     "title": "第4話 油断・たいまん・デートの心得！",
-     "url": "https://www.sunday-webry.com/episode/12207421983834461843",
-     "date": "2026-06-12T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "sunday_webry:episode:12207421983805413985",
      "title": "第3話 しゃる・うぃー・初デート！",
      "url": "https://www.sunday-webry.com/episode/12207421983805413985",
      "date": "2026-06-05T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "sunday_webry:episode:12207421983777939042",
+     "title": "第2話 うそつき、かけひき、第一歩!",
+     "url": "https://www.sunday-webry.com/episode/12207421983777939042",
+     "date": "2026-05-29T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -878,118 +871,55 @@
    "name": "ポッピン・ポッピン・ペナルティ",
    "episodes": [
     {
-     "guid": "comicdays:episode:12207421983858385578",
-     "title": "第１０話　わたしは生涯の終わりに貴石に触れるのだ",
-     "url": "https://comic-days.com/episode/12207421983858385578",
-     "date": "2026-10-25T03:00:00.000Z",
-     "firstSeen": "2026-10-25T14:37:01.329Z"
-    },
-    {
      "guid": "comicdays:episode:12207421983858385573",
      "title": "第９話　がんばれ　トマト！",
      "url": "https://comic-days.com/episode/12207421983858385573",
-     "date": "2026-10-11T03:00:00.000Z",
+     "date": "2026-10-25T03:00:00.000Z",
      "firstSeen": null
     },
     {
      "guid": "comicdays:episode:12207421983858385570",
      "title": "第８話　テトラテルペン",
      "url": "https://comic-days.com/episode/12207421983858385570",
-     "date": "2026-09-27T03:00:00.000Z",
+     "date": "2026-10-11T03:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "comicdays:episode:12207421983858385567",
-     "title": "第７話　гипноза③",
-     "url": "https://comic-days.com/episode/12207421983858385567",
-     "date": "2026-09-13T03:00:00.000Z",
+     "guid": "comicdays:episode:12207421983858385550",
+     "title": "第２話　Ghost Room",
+     "url": "https://comic-days.com/episode/12207421983858385550",
+     "date": "2026-07-19T03:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "comicdays:episode:12207421983858385564",
-     "title": "第６話　гипноза②",
-     "url": "https://comic-days.com/episode/12207421983858385564",
-     "date": "2026-08-30T03:00:00.000Z",
+     "guid": "comicdays:episode:12207421983858385545",
+     "title": "第１話　東雲おでん",
+     "url": "https://comic-days.com/episode/12207421983858385545",
+     "date": "2026-07-05T03:00:00.000Z",
      "firstSeen": null
     }
    ]
   },
-  "https://mgpk-cdn.magazinepocket.com/static/rss/3335/feed.xml": {
+  "https://pocket.shonenmagazine.com/title/03335": {
    "name": "魔力枯れのダークエルフ",
    "episodes": [
     {
-     "guid": "445658",
-     "title": "【第10話(2)】超えるしかない",
-     "url": "https://pocket.shonenmagazine.com/title/03335/episode/445658",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "445657",
-     "title": "【第10話(1)】超えるしかない",
-     "url": "https://pocket.shonenmagazine.com/title/03335/episode/445657",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "444078",
-     "title": "【第9話(2)】また知りたくなる",
-     "url": "https://pocket.shonenmagazine.com/title/03335/episode/444078",
-     "date": "2026-09-15T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "444077",
-     "title": "【第9話(1)】また知りたくなる",
-     "url": "https://pocket.shonenmagazine.com/title/03335/episode/444077",
-     "date": "2026-09-15T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "442406",
-     "title": "【第8話(2)】世界の見え方",
-     "url": "https://pocket.shonenmagazine.com/title/03335/episode/442406",
-     "date": "2026-08-10T02:00:00.000Z",
+     "guid": "free:4|次回無料更新は11/2(月曜)予定です。",
+     "title": "無料話が更新されました(無料4話)",
+     "url": "https://pocket.shonenmagazine.com/title/03335",
+     "date": null,
      "firstSeen": null
     }
    ]
   },
-  "https://mgpk-cdn.magazinepocket.com/static/rss/1773/feed.xml": {
+  "https://pocket.shonenmagazine.com/title/01773": {
    "name": "追放された転生重騎士はゲーム知識で無双する",
    "episodes": [
     {
-     "guid": "445928",
-     "title": "【第184話】",
-     "url": "https://pocket.shonenmagazine.com/title/01773/episode/445928",
-     "date": "2026-10-25T15:00:00.000Z",
-     "firstSeen": "2026-10-26T01:54:06.244Z"
-    },
-    {
-     "guid": "445678",
-     "title": "【第183話】",
-     "url": "https://pocket.shonenmagazine.com/title/01773/episode/445678",
-     "date": "2026-10-18T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "445353",
-     "title": "【第182話】",
-     "url": "https://pocket.shonenmagazine.com/title/01773/episode/445353",
-     "date": "2026-10-12T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "444841",
-     "title": "【第181話】",
-     "url": "https://pocket.shonenmagazine.com/title/01773/episode/444841",
-     "date": "2026-10-04T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "444313",
-     "title": "【第180話】",
-     "url": "https://pocket.shonenmagazine.com/title/01773/episode/444313",
-     "date": "2026-09-17T15:00:00.000Z",
+     "guid": "free:12|次回無料更新は11/1(日曜)予定です。",
+     "title": "無料話が更新されました(無料12話)",
+     "url": "https://pocket.shonenmagazine.com/title/01773",
+     "date": null,
      "firstSeen": null
     }
    ]
