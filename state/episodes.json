@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T14:37:01.329Z",
+ "updatedAt": "2026-10-26T01:54:06.244Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -765,11 +765,11 @@
      "firstSeen": null
     },
     {
-     "guid": "sunday_webry:episode:12207421984354175136",
-     "title": "第116話 人肌",
-     "url": "https://www.sunday-webry.com/episode/12207421984354175136",
-     "date": "2026-10-11T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984411838051",
+     "title": "第117話 もっと",
+     "url": "https://www.sunday-webry.com/episode/12207421984411838051",
+     "date": "2026-10-25T15:00:00.000Z",
+     "firstSeen": "2026-10-26T01:54:06.244Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983950593114",
@@ -958,6 +958,13 @@
    "name": "追放された転生重騎士はゲーム知識で無双する",
    "episodes": [
     {
+     "guid": "445928",
+     "title": "【第184話】",
+     "url": "https://pocket.shonenmagazine.com/title/01773/episode/445928",
+     "date": "2026-10-25T15:00:00.000Z",
+     "firstSeen": "2026-10-26T01:54:06.244Z"
+    },
+    {
      "guid": "445678",
      "title": "【第183話】",
      "url": "https://pocket.shonenmagazine.com/title/01773/episode/445678",
@@ -983,13 +990,6 @@
      "title": "【第180話】",
      "url": "https://pocket.shonenmagazine.com/title/01773/episode/444313",
      "date": "2026-09-17T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "443942",
-     "title": "【第179話】",
-     "url": "https://pocket.shonenmagazine.com/title/01773/episode/443942",
-     "date": "2026-09-13T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1076,6 +1076,24 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257538009983",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "妖怪結婚相談所",
+   "title": "妖怪結婚相談所",
+   "url": "https://shonenjumpplus.com/episode/9253191257538009983",
+   "firstSeen": "2026-10-26T01:54:06.244Z"
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257538010663",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "ウロボロスの二人/2026年9月期ブロンズルーキー賞",
+   "title": "ウロボロスの二人/2026年9月期ブロンズルーキー賞",
+   "url": "https://shonenjumpplus.com/episode/9253191257538010663",
+   "firstSeen": "2026-10-26T01:54:06.244Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257382361673",
    "kind": "oneshot",
