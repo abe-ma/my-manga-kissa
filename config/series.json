@@ -25,5 +25,7 @@
   {"name": "魔力枯れのダークエルフ", "feed": "https://pocket.shonenmagazine.com/title/03335", "kind": "magapoke-free"},
   {"name": "追放された転生重騎士はゲーム知識で無双する", "feed": "https://pocket.shonenmagazine.com/title/01773", "kind": "magapoke-free"},
   {"name": "ファンタズマ・リリィ", "kind": "rookie", "feed": "https://rookie.shonenjump.com/series/zGZPbQ86a78"},
-  {"name": "羽鳥と古田の非日常茶飯事", "feed": "https://shonenjumpplus.com/rss/series/17107094912731745089"}
+  {"name": "羽鳥と古田の非日常茶飯事", "feed": "https://shonenjumpplus.com/rss/series/17107094912731745089"},
+  { "name": "糸と鎧", "kind": "yanmaga", "feed": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7" },
+  { "name": "絶対死なないステラ姫", "feed": "https://comic-days.com/rss/series/2550912964517490278" }
 ]

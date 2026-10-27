@@ -3,9 +3,9 @@ import { XMLParser } from "fast-xml-parser";
 import { discover } from "./discover.js";
 import type { ViewData, ViewEpisode, ViewFound } from "./view.js";
 
-// kind 省略時は RSS。"rookie" はジャンプルーキーの作品ページを読む。
+// kind 省略時は RSS。"rookie" はジャンプルーキー、"yanmaga" はヤンマガWebの作品ページを読む。
 // "magapoke-free" はマガポケの作品ページを見て、無料話の更新を知らせる(話ごとの無料判定はできないため)
-type Series = { name: string; feed: string; kind?: "rookie" | "magapoke-free" };
+type Series = { name: string; feed: string; kind?: "rookie" | "magapoke-free" | "yanmaga" };
 // tag は新連載・読切(登録していない作品の通知)のとき。guid はその話のURL
 type Episode = { guid: string; series: string; title: string; url: string; date?: string; tag?: string };
 type State = { feeds: Record<string, string[]>; discovery?: string[] };
@@ -62,6 +62,35 @@ async function fetchRookie(s: Series): Promise<Episode[]> {
   return episodes;
 }
 
+// ヤンマガWebはRSSが無いので、作品ページの話一覧を読む。一覧には最初の数話と最新の数話が並び、
+// 話ごとに無料かどうかのフラグ(data-is-free)があるので、無料になった話だけを返す
+async function fetchYanmaga(s: Series): Promise<Episode[]> {
+  const res = await fetch(s.feed, { headers: UA });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
+  const origin = new URL(s.feed).origin;
+  const items = [...html.matchAll(/<li class="mod-episode-item"([^>]*)>([\s\S]*?)<\/li>/g)];
+  // 0件はページ構造の変更を疑い、「新着なし」と区別するためエラーにする
+  if (items.length === 0) throw new Error("no episodes found (page layout changed?)");
+  const attr = (attrs: string, name: string) => attrs.match(new RegExp(`${name}="([^"]*)"`))?.[1];
+  const decode = (t: string) => t.replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#0?39;/g, "'");
+  const episodes: Episode[] = [];
+  for (const [, attrs, body] of items) {
+    const path = attr(attrs, "data-original-url");
+    const title = attr(attrs, "data-episode-title");
+    if (!path || !title || attr(attrs, "data-is-free") !== "true") continue;
+    const d = body.match(/mod-episode-date">(\d{4})\/(\d{2})\/(\d{2})</);
+    episodes.push({
+      guid: path.split("/").pop()!,
+      series: s.name,
+      title: decode(title),
+      url: origin + path,
+      date: d ? new Date(`${d[1]}-${d[2]}-${d[3]}T00:00:00+09:00`).toISOString() : undefined,
+    });
+  }
+  return episodes.reverse(); // 古い順なので、新しい順にそろえる
+}
+
 // マガポケは話ごとの無料/有料が公開ページに無いので、「無料話の件数」と「次回無料更新」の表示が
 // 変わったことを、無料話の更新として扱う(どの話かは分からないので、作品ページへのリンクになる)
 async function fetchMagapokeFree(s: Series): Promise<Episode[]> {
@@ -90,7 +119,13 @@ async function fetchMagapokeFree(s: Series): Promise<Episode[]> {
 }
 
 const fetchEpisodes = (s: Series) =>
-  s.kind === "rookie" ? fetchRookie(s) : s.kind === "magapoke-free" ? fetchMagapokeFree(s) : fetchRss(s);
+  s.kind === "rookie"
+    ? fetchRookie(s)
+    : s.kind === "magapoke-free"
+      ? fetchMagapokeFree(s)
+      : s.kind === "yanmaga"
+        ? fetchYanmaga(s)
+        : fetchRss(s);
 
 // Markdownのリンク文字列に [ ] があると壊れるので、全角にする
 const mdText = (t: string) => t.replace(/\[/g, "［").replace(/\]/g, "］");
