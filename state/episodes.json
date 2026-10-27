@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T02:32:34.208Z",
+ "updatedAt": "2026-10-27T16:05:31.418Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -445,6 +445,13 @@
    "name": "スライム聖女",
    "episodes": [
     {
+     "guid": "tonarino_yj:episode:12207421984415780108",
+     "title": "[第67話] スライム聖女",
+     "url": "https://tonarinoyj.jp/episode/12207421984415780108",
+     "date": "2026-10-27T03:00:00.000Z",
+     "firstSeen": "2026-10-27T16:05:31.418Z"
+    },
+    {
      "guid": "tonarino_yj:episode:12207421984340720085",
      "title": "[第66話] スライム聖女",
      "url": "https://tonarinoyj.jp/episode/12207421984340720085",
@@ -470,13 +477,6 @@
      "title": "[第63話] スライム聖女",
      "url": "https://tonarinoyj.jp/episode/12207421984093802398",
      "date": "2026-08-18T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421983978813323",
-     "title": "[第62話] スライム聖女",
-     "url": "https://tonarinoyj.jp/episode/12207421983978813323",
-     "date": "2026-07-21T03:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -525,11 +525,11 @@
    "name": "ロードマギアの弟子",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984407441972",
-     "title": "第80話 姫と少年",
-     "url": "https://www.sunday-webry.com/episode/12207421984407441972",
-     "date": "2026-10-20T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984440175019",
+     "title": "第81話 王都の戦い1",
+     "url": "https://www.sunday-webry.com/episode/12207421984440175019",
+     "date": "2026-10-27T15:00:00.000Z",
+     "firstSeen": "2026-10-27T16:05:31.418Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984373282709",
@@ -1003,9 +1003,91 @@
      "firstSeen": null
     }
    ]
+  },
+  "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7": {
+   "name": "糸と鎧",
+   "episodes": [
+    {
+     "guid": "5bf099c0ae5511a8be5b7a21a7b04621",
+     "title": "第５話　盲信の呪い",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/5bf099c0ae5511a8be5b7a21a7b04621",
+     "date": "2026-10-26T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "340807fd16264efd7b10f2a64b7978f2",
+     "title": "第４話　樹の惨禍アルラウネ",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/340807fd16264efd7b10f2a64b7978f2",
+     "date": "2026-10-19T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "aaa94e7c4cf64415bd93917dca910c31",
+     "title": "第３話　疎まれし惨禍",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/aaa94e7c4cf64415bd93917dca910c31",
+     "date": "2026-10-12T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "092e6ab9741da24387d72e7197764942",
+     "title": "第２話　勇敢な解呪師",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/092e6ab9741da24387d72e7197764942",
+     "date": "2026-10-05T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "02f038354bbfd7118b7b499b6890804f",
+     "title": "第１話　呪いの剣士",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/02f038354bbfd7118b7b499b6890804f",
+     "date": "2026-10-05T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
+  },
+  "https://comic-days.com/rss/series/2550912964517490278": {
+   "name": "絶対死なないステラ姫",
+   "episodes": [
+    {
+     "guid": "comicdays:episode:12207421984094175994",
+     "title": "第２４話　絶対２代目にならない(前編)②",
+     "url": "https://comic-days.com/episode/12207421984094175994",
+     "date": "2026-10-26T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "comicdays:episode:12207421983593284444",
+     "title": "第２４話　絶対２代目にならない(前編)①",
+     "url": "https://comic-days.com/episode/12207421983593284444",
+     "date": "2026-10-19T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "comicdays:episode:2550912964546522823",
+     "title": "第１話　絶対転生しない②",
+     "url": "https://comic-days.com/episode/2550912964546522823",
+     "date": "2024-09-09T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "comicdays:episode:2550912964546522818",
+     "title": "第１話　絶対転生しない①",
+     "url": "https://comic-days.com/episode/2550912964546522818",
+     "date": "2024-09-02T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257538010166",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "オヴェハネグラ号の悪夢",
+   "title": "[第1話]オヴェハネグラ号の悪夢",
+   "url": "https://shonenjumpplus.com/episode/9253191257538010166",
+   "firstSeen": "2026-10-27T16:05:31.418Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257538009983",
    "kind": "oneshot",
