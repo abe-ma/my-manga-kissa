@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T02:41:26.415Z",
+ "updatedAt": "2026-10-28T16:51:38.872Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -45,6 +45,13 @@
    "name": "神ヨムふたり",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257538010297",
+     "title": "[第20話]神ヨムふたり",
+     "url": "https://shonenjumpplus.com/episode/9253191257538010297",
+     "date": "2026-10-28T15:00:00.000Z",
+     "firstSeen": "2026-10-28T16:51:38.872Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257382361344",
      "title": "[特別編2＋第18.5話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257382361344",
@@ -63,13 +70,6 @@
      "title": "[第18話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257069548115",
      "date": "2026-10-07T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256672016369",
-     "title": "[第17話]神ヨムふたり",
-     "url": "https://shonenjumpplus.com/episode/9253191256672016369",
-     "date": "2026-09-23T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -485,11 +485,11 @@
    "name": "廻天のアルバス",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984410755066",
-     "title": "第104話 夜と光",
-     "url": "https://www.sunday-webry.com/episode/12207421984410755066",
-     "date": "2026-10-21T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984440196579",
+     "title": "第105話 裏切り者",
+     "url": "https://www.sunday-webry.com/episode/12207421984440196579",
+     "date": "2026-10-28T15:00:00.000Z",
+     "firstSeen": "2026-10-28T16:51:38.872Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983608463863",
@@ -1000,6 +1000,46 @@
      "title": "[第20話]羽鳥と古田の非日常茶飯事",
      "url": "https://shonenjumpplus.com/episode/9253191256195090159",
      "date": "2026-08-28T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
+  },
+  "https://shonenjumpplus.com/rss/series/9253191256637592489": {
+   "name": "エヴァンジェリンは靴を履く",
+   "episodes": [
+    {
+     "guid": "jump_plus:episode:9253191257538010230",
+     "title": "[7話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191257538010230",
+     "date": "2026-10-27T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191257382361181",
+     "title": "[6話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191257382361181",
+     "date": "2026-10-20T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191257227137517",
+     "title": "[5話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191257227137517",
+     "date": "2026-10-13T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191257069547933",
+     "title": "[4話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191257069547933",
+     "date": "2026-10-06T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "jump_plus:episode:9253191256784141742",
+     "title": "[3話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191256784141742",
+     "date": "2026-09-29T15:00:00.000Z",
      "firstSeen": null
     }
    ]
