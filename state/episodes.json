@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T03:00:03.367Z",
+ "updatedAt": "2026-10-29T17:07:19.742Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -85,6 +85,13 @@
    "name": "世界を繋ぎ尽くすインターネット巫女",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257538010425",
+     "title": "[19話]世界を繋ぎ尽くすインターネット巫女",
+     "url": "https://shonenjumpplus.com/episode/9253191257538010425",
+     "date": "2026-10-29T15:00:00.000Z",
+     "firstSeen": "2026-10-29T17:07:19.742Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257382361486",
      "title": "[18話]世界を繋ぎ尽くすインターネット巫女",
      "url": "https://shonenjumpplus.com/episode/9253191257382361486",
@@ -110,13 +117,6 @@
      "title": "[15話]世界を繋ぎ尽くすインターネット巫女",
      "url": "https://shonenjumpplus.com/episode/9253191256672022886",
      "date": "2026-09-24T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256637716411",
-     "title": "[14話]世界を繋ぎ尽くすインターネット巫女",
-     "url": "https://shonenjumpplus.com/episode/9253191256637716411",
-     "date": "2026-09-17T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -285,6 +285,13 @@
    "name": "ブヨトピア",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257538010377",
+     "title": "[第26話]ブヨトピア",
+     "url": "https://shonenjumpplus.com/episode/9253191257538010377",
+     "date": "2026-10-29T15:00:00.000Z",
+     "firstSeen": "2026-10-29T17:07:19.742Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257382361447",
      "title": "[第25話]ブヨトピア",
      "url": "https://shonenjumpplus.com/episode/9253191257382361447",
@@ -296,13 +303,6 @@
      "title": "[第24話]ブヨトピア",
      "url": "https://shonenjumpplus.com/episode/9253191257227139490",
      "date": "2026-10-15T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256784142282",
-     "title": "[第23話]ブヨトピア",
-     "url": "https://shonenjumpplus.com/episode/9253191256784142282",
-     "date": "2026-10-01T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -671,11 +671,11 @@
    "name": "神引きのモナーク",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984411794975",
-     "title": "第22話 忘失の冒険者",
-     "url": "https://www.sunday-webry.com/episode/12207421984411794975",
-     "date": "2026-10-22T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984443235717",
+     "title": "第23話 ポニテと訪問者",
+     "url": "https://www.sunday-webry.com/episode/12207421984443235717",
+     "date": "2026-10-29T15:00:00.000Z",
+     "firstSeen": "2026-10-29T17:07:19.742Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983832812685",
@@ -1119,6 +1119,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257538010369",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "うつろうカノジョたち",
+   "title": "[第1話]うつろうカノジョたち",
+   "url": "https://shonenjumpplus.com/episode/9253191257538010369",
+   "firstSeen": "2026-10-29T17:07:19.742Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257538010166",
    "kind": "new",
