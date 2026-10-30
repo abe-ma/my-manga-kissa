@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T17:07:19.742Z",
+ "updatedAt": "2026-10-30T03:05:15.298Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -365,6 +365,13 @@
    "name": "つづら先輩は元カノだから",
    "episodes": [
     {
+     "guid": "tonarino_yj:episode:12207421984436708463",
+     "title": "[第13話] つづら先輩は元カノだから",
+     "url": "https://tonarinoyj.jp/episode/12207421984436708463",
+     "date": "2026-10-30T03:00:00.000Z",
+     "firstSeen": "2026-10-30T03:05:15.298Z"
+    },
+    {
      "guid": "tonarino_yj:episode:12207421984382492545",
      "title": "[おまけイラスト3] つづら先輩は元カノだから",
      "url": "https://tonarinoyj.jp/episode/12207421984382492545",
@@ -391,19 +398,19 @@
      "url": "https://tonarinoyj.jp/episode/12207421984304051513",
      "date": "2026-10-02T03:00:00.000Z",
      "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421984284937352",
-     "title": "[第10話] つづら先輩は元カノだから",
-     "url": "https://tonarinoyj.jp/episode/12207421984284937352",
-     "date": "2026-09-25T03:00:00.000Z",
-     "firstSeen": null
     }
    ]
   },
   "https://tonarinoyj.jp/rss/series/12207421984080772880": {
    "name": "魔王さまの金曜日",
    "episodes": [
+    {
+     "guid": "tonarino_yj:episode:12207421984439043089",
+     "title": "[第6話] 魔王さまの金曜日",
+     "url": "https://tonarinoyj.jp/episode/12207421984439043089",
+     "date": "2026-10-30T03:00:00.000Z",
+     "firstSeen": "2026-10-30T03:05:15.298Z"
+    },
     {
      "guid": "tonarino_yj:episode:12207421984374506814",
      "title": "[第5話] 魔王さまの金曜日",
@@ -430,13 +437,6 @@
      "title": "[第2話] 魔王さまの金曜日",
      "url": "https://tonarinoyj.jp/episode/12207421984173978544",
      "date": "2026-09-04T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421984093802437",
-     "title": "[第1話] 魔王さまの金曜日",
-     "url": "https://tonarinoyj.jp/episode/12207421984093802437",
-     "date": "2026-08-21T03:00:00.000Z",
      "firstSeen": null
     }
    ]
