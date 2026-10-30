@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T03:05:15.298Z",
+ "updatedAt": "2026-10-30T16:50:34.118Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -245,6 +245,13 @@
    "name": "SATANICA",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257538010503",
+     "title": "[16話]SATANICA",
+     "url": "https://shonenjumpplus.com/episode/9253191257538010503",
+     "date": "2026-10-30T15:00:00.000Z",
+     "firstSeen": "2026-10-30T16:50:34.118Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257227141174",
      "title": "[15話]SATANICA",
      "url": "https://shonenjumpplus.com/episode/9253191257227141174",
@@ -270,13 +277,6 @@
      "title": "[12話]SATANICA",
      "url": "https://shonenjumpplus.com/episode/9253191256340472805",
      "date": "2026-09-04T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191255890794558",
-     "title": "[11話]SATANICA",
-     "url": "https://shonenjumpplus.com/episode/9253191255890794558",
-     "date": "2026-08-21T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -831,17 +831,17 @@
    "name": "魔王さま、リリリベンジ！",
    "episodes": [
     {
+     "guid": "sunday_webry:episode:12207421984447631741",
+     "title": "第13話 夏祭り、ひとごみとふたり",
+     "url": "https://www.sunday-webry.com/episode/12207421984447631741",
+     "date": "2026-10-30T15:00:00.000Z",
+     "firstSeen": "2026-10-30T16:50:34.118Z"
+    },
+    {
      "guid": "sunday_webry:episode:12207421984355367906",
      "title": "単行本PR",
      "url": "https://www.sunday-webry.com/episode/12207421984355367906",
      "date": "2026-10-09T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "sunday_webry:episode:12207421984387535677",
-     "title": "第12話 勉強会、翻弄ちゅう！",
-     "url": "https://www.sunday-webry.com/episode/12207421984387535677",
-     "date": "2026-10-16T15:00:00.000Z",
      "firstSeen": null
     },
     {
