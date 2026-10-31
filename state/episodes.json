@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T02:52:16.024Z",
+ "updatedAt": "2026-10-31T15:54:33.585Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -325,17 +325,17 @@
    "name": "無敵のスバル",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257538010575",
+     "title": "[第26話]無敵のスバル",
+     "url": "https://shonenjumpplus.com/episode/9253191257538010575",
+     "date": "2026-10-31T15:00:00.000Z",
+     "firstSeen": "2026-10-31T15:54:33.585Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257227141756",
      "title": "[第25話]無敵のスバル",
      "url": "https://shonenjumpplus.com/episode/9253191257227141756",
      "date": "2026-10-17T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191257069548761",
-     "title": "[第24話]無敵のスバル",
-     "url": "https://shonenjumpplus.com/episode/9253191257069548761",
-     "date": "2026-10-10T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -916,11 +916,11 @@
    "name": "追放された転生重騎士はゲーム知識で無双する",
    "episodes": [
     {
-     "guid": "free:12|次回無料更新は11/1(日曜)予定です。",
+     "guid": "free:12|次回無料更新は11/8(日曜)予定です。",
      "title": "無料話が更新されました(無料12話)",
      "url": "https://pocket.shonenmagazine.com/title/01773",
      "date": null,
-     "firstSeen": null
+     "firstSeen": "2026-10-31T15:54:33.585Z"
     }
    ]
   },
@@ -1119,6 +1119,24 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257538010541",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "ﾒﾛ井くん",
+   "title": "ﾒﾛ井くん",
+   "url": "https://shonenjumpplus.com/episode/9253191257538010541",
+   "firstSeen": "2026-10-31T15:54:33.585Z"
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984439791475",
+   "kind": "oneshot",
+   "site": "サンデーうぇぶり",
+   "series": "脚",
+   "title": "脚",
+   "url": "https://www.sunday-webry.com/episode/12207421984439791475",
+   "firstSeen": "2026-10-31T15:54:33.585Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257538010369",
    "kind": "new",
