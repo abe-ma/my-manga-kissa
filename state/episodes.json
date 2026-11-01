@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T03:12:20.382Z",
+ "updatedAt": "2026-11-01T03:16:47.112Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -942,11 +942,83 @@
   },
   "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95": {
    "name": "魔力枯れのダークエルフ",
-   "episodes": []
+   "episodes": [
+    {
+     "guid": "6c0c66f987f434a4d849df6078282ea8",
+     "title": "第１０話　超えるしかない②",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/6c0c66f987f434a4d849df6078282ea8",
+     "date": "2026-10-19T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "979eaf55cf3ba8f0d65c467dc63e836b",
+     "title": "第１０話　超えるしかない①",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/979eaf55cf3ba8f0d65c467dc63e836b",
+     "date": "2026-10-19T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "94bfc8ba9f6d5b16c183b806aa588d7e",
+     "title": "第３話　星空①",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/94bfc8ba9f6d5b16c183b806aa588d7e",
+     "date": "2026-02-18T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "c2fb7107735238c05c26cfa0fafa5b20",
+     "title": "第２話　昨日よりも",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/c2fb7107735238c05c26cfa0fafa5b20",
+     "date": "2026-01-19T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "af4ef7c663080ea8f20a229df4b3fd0f",
+     "title": "第１話　ダークエルフのアミラ",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/af4ef7c663080ea8f20a229df4b3fd0f",
+     "date": "2025-12-16T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
   },
   "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B": {
    "name": "大ハズレだと追放された転生重騎士はゲーム知識で無双する",
-   "episodes": []
+   "episodes": [
+    {
+     "guid": "d64d271459bfae64f78943b78373df15",
+     "title": "第１８２話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/d64d271459bfae64f78943b78373df15",
+     "date": "2026-10-12T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "ec7b0da4790ea1bd60bf82a5bef7c281",
+     "title": "第１８１話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/ec7b0da4790ea1bd60bf82a5bef7c281",
+     "date": "2026-10-04T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "d8da26dc84954fd7474ead55b73ab221",
+     "title": "単行本告知",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/d8da26dc84954fd7474ead55b73ab221",
+     "date": "2026-10-01T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "17ed838328d9ff4f6e0c5399547b23dd",
+     "title": "第３話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/17ed838328d9ff4f6e0c5399547b23dd",
+     "date": "2022-02-17T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "2126db9af0e18db2d5e56ea13b20419b",
+     "title": "第２話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/2126db9af0e18db2d5e56ea13b20419b",
+     "date": "2022-02-10T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
   },
   "https://rookie.shonenjump.com/series/zGZPbQ86a78": {
    "name": "ファンタズマ・リリィ",
