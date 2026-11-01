@@ -78,7 +78,9 @@ async function fetchYanmaga(s: Series): Promise<Episode[]> {
   for (const [, attrs, body] of items) {
     const path = attr(attrs, "data-original-url");
     const title = attr(attrs, "data-episode-title");
-    if (!path || !title || attr(attrs, "data-is-free") !== "true") continue;
+    // data-is-free が false でも、キャンペーンで「70pt → 無料」と表示される話は無料で読める(会員登録は必要)
+    const free = attr(attrs, "data-is-free") === "true" || body.includes("mod-episode-point--free");
+    if (!path || !title || !free) continue;
     const d = body.match(/mod-episode-date">(\d{4})\/(\d{2})\/(\d{2})</);
     episodes.push({
       guid: path.split("/").pop()!,
