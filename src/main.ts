@@ -88,6 +88,7 @@ async function fetchYanmaga(s: Series): Promise<Episode[]> {
       date: d ? new Date(`${d[1]}-${d[2]}-${d[3]}T00:00:00+09:00`).toISOString() : undefined,
     });
   }
+  console.log(`yanmaga ${s.name}: ${items.length} items, ${episodes.length} free`);
   return episodes.reverse(); // 古い順なので、新しい順にそろえる
 }
 
