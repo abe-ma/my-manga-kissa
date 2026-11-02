@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T02:52:38.704Z",
+ "updatedAt": "2026-11-02T20:32:35.095Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -165,6 +165,13 @@
    "name": "MAD",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257689745302",
+     "title": "[57話]MAD",
+     "url": "https://shonenjumpplus.com/episode/9253191257689745302",
+     "date": "2026-11-02T15:00:00.000Z",
+     "firstSeen": "2026-11-02T20:32:35.095Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257382360997",
      "title": "[56話]MAD",
      "url": "https://shonenjumpplus.com/episode/9253191257382360997",
@@ -176,13 +183,6 @@
      "title": "[番外編7]MAD",
      "url": "https://shonenjumpplus.com/episode/9253191257069547559",
      "date": "2026-10-05T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256672003933",
-     "title": "[55話]MAD",
-     "url": "https://shonenjumpplus.com/episode/9253191256672003933",
-     "date": "2026-09-21T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -645,11 +645,11 @@
    "name": "吉田だより",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984401450833",
-     "title": "第4話 吉田なりの社会貢献",
-     "url": "https://www.sunday-webry.com/episode/12207421984401450833",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "sunday_webry:episode:12207421984466449571",
+     "title": "第5話 吉田とシニア",
+     "url": "https://www.sunday-webry.com/episode/12207421984466449571",
+     "date": "2026-11-02T15:00:00.000Z",
+     "firstSeen": "2026-11-02T20:32:35.095Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984335542897",
@@ -1144,6 +1144,13 @@
    "name": "糸と鎧",
    "episodes": [
     {
+     "guid": "0d4915319ccc6790996e6f02f7daf1e8",
+     "title": "第６話　呵責の呪い",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/0d4915319ccc6790996e6f02f7daf1e8",
+     "date": "2026-11-02T15:00:00.000Z",
+     "firstSeen": "2026-11-02T20:32:35.095Z"
+    },
+    {
      "guid": "5bf099c0ae5511a8be5b7a21a7b04621",
      "title": "第５話　盲信の呪い",
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/5bf099c0ae5511a8be5b7a21a7b04621",
@@ -1168,13 +1175,6 @@
      "guid": "092e6ab9741da24387d72e7197764942",
      "title": "第２話　勇敢な解呪師",
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/092e6ab9741da24387d72e7197764942",
-     "date": "2026-10-05T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "02f038354bbfd7118b7b499b6890804f",
-     "title": "第１話　呪いの剣士",
-     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/02f038354bbfd7118b7b499b6890804f",
      "date": "2026-10-05T15:00:00.000Z",
      "firstSeen": null
     }
