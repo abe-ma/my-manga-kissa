@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T04:10:16.980Z",
+ "updatedAt": "2026-11-03T18:07:09.108Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -106,17 +106,17 @@
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256784142467",
-     "title": "[16話]世界を繋ぎ尽くすインターネット巫女",
-     "url": "https://shonenjumpplus.com/episode/9253191256784142467",
-     "date": "2026-10-01T15:00:00.000Z",
+     "guid": "jump_plus:episode:9253191254350319609",
+     "title": "[3話]世界を繋ぎ尽くすインターネット巫女",
+     "url": "https://shonenjumpplus.com/episode/9253191254350319609",
+     "date": "2026-06-11T15:00:00.000Z",
      "firstSeen": null
     },
     {
-     "guid": "jump_plus:episode:9253191256672022886",
-     "title": "[15話]世界を繋ぎ尽くすインターネット巫女",
-     "url": "https://shonenjumpplus.com/episode/9253191256672022886",
-     "date": "2026-09-24T15:00:00.000Z",
+     "guid": "jump_plus:episode:9253191254199645670",
+     "title": "[2話]世界を繋ぎ尽くすインターネット巫女",
+     "url": "https://shonenjumpplus.com/episode/9253191254199645670",
+     "date": "2026-06-04T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -124,6 +124,13 @@
   "https://shonenjumpplus.com/rss/series/17107419589536330256": {
    "name": "ヒトナー",
    "episodes": [
+    {
+     "guid": "jump_plus:episode:9253191257689745622",
+     "title": "[15話]ヒトナー",
+     "url": "https://shonenjumpplus.com/episode/9253191257689745622",
+     "date": "2026-11-03T15:00:00.000Z",
+     "firstSeen": "2026-11-03T18:07:09.108Z"
+    },
     {
      "guid": "jump_plus:episode:9253191257382361132",
      "title": "[14話]ヒトナー",
@@ -150,13 +157,6 @@
      "title": "[12話]ヒトナー",
      "url": "https://shonenjumpplus.com/episode/9253191256479733993",
      "date": "2026-09-08T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256195089742",
-     "title": "[番外編]ヒトナー",
-     "url": "https://shonenjumpplus.com/episode/9253191256195089742",
-     "date": "2026-08-25T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -565,6 +565,13 @@
    "name": "ロードマギアの弟子",
    "episodes": [
     {
+     "guid": "sunday_webry:episode:12207421984467508049",
+     "title": "おまけ",
+     "url": "https://www.sunday-webry.com/episode/12207421984467508049",
+     "date": "2026-11-03T15:00:00.000Z",
+     "firstSeen": "2026-11-03T18:07:09.108Z"
+    },
+    {
      "guid": "sunday_webry:episode:12207421984440175019",
      "title": "第81話 王都の戦い1",
      "url": "https://www.sunday-webry.com/episode/12207421984440175019",
@@ -590,13 +597,6 @@
      "title": "おまけ",
      "url": "https://www.sunday-webry.com/episode/12207421984178912880",
      "date": "2026-09-01T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "sunday_webry:episode:12207421984069367126",
-     "title": "おまけ",
-     "url": "https://www.sunday-webry.com/episode/12207421984069367126",
-     "date": "2026-08-11T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1104,6 +1104,13 @@
    "name": "エヴァンジェリンは靴を履く",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257689745661",
+     "title": "[8話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191257689745661",
+     "date": "2026-11-03T15:00:00.000Z",
+     "firstSeen": "2026-11-03T18:07:09.108Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257538010230",
      "title": "[7話]エヴァンジェリンは靴を履く",
      "url": "https://shonenjumpplus.com/episode/9253191257538010230",
@@ -1129,13 +1136,6 @@
      "title": "[4話]エヴァンジェリンは靴を履く",
      "url": "https://shonenjumpplus.com/episode/9253191257069547933",
      "date": "2026-10-06T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256784141742",
-     "title": "[3話]エヴァンジェリンは靴を履く",
-     "url": "https://shonenjumpplus.com/episode/9253191256784141742",
-     "date": "2026-09-29T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984447636988",
+   "kind": "new",
+   "site": "サンデーうぇぶり",
+   "series": "Honey Creep",
+   "title": "第1話 運命の相手",
+   "url": "https://www.sunday-webry.com/episode/12207421984447636988",
+   "firstSeen": "2026-11-03T18:07:09.108Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257538010541",
    "kind": "oneshot",
