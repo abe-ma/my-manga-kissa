@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T03:28:44.247Z",
+ "updatedAt": "2026-11-04T18:16:34.346Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -45,6 +45,13 @@
    "name": "神ヨムふたり",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257689745854",
+     "title": "[第21話]神ヨムふたり",
+     "url": "https://shonenjumpplus.com/episode/9253191257689745854",
+     "date": "2026-11-04T15:00:00.000Z",
+     "firstSeen": "2026-11-04T18:16:34.346Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257538010297",
      "title": "[第20話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257538010297",
@@ -63,13 +70,6 @@
      "title": "[第19話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257227138759",
      "date": "2026-10-14T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191257069548115",
-     "title": "[第18話]神ヨムふたり",
-     "url": "https://shonenjumpplus.com/episode/9253191257069548115",
-     "date": "2026-10-07T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -525,11 +525,11 @@
    "name": "廻天のアルバス",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984440196579",
-     "title": "第105話 裏切り者",
-     "url": "https://www.sunday-webry.com/episode/12207421984440196579",
-     "date": "2026-10-28T15:00:00.000Z",
-     "firstSeen": "2026-10-28T16:51:38.872Z"
+     "guid": "sunday_webry:episode:12207421984475731077",
+     "title": "第106話 推しの子",
+     "url": "https://www.sunday-webry.com/episode/12207421984475731077",
+     "date": "2026-11-04T15:00:00.000Z",
+     "firstSeen": "2026-11-04T18:16:34.346Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983608463863",
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257689745727",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "幽霊タクシー 今日も逝く",
+   "title": "幽霊タクシー 今日も逝く",
+   "url": "https://shonenjumpplus.com/episode/9253191257689745727",
+   "firstSeen": "2026-11-04T18:16:34.346Z"
+  },
   {
    "key": "https://www.sunday-webry.com/episode/12207421984447636988",
    "kind": "new",
