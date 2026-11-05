@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T18:16:34.346Z",
+ "updatedAt": "2026-11-05T03:51:04.122Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1215,6 +1215,42 @@
   }
  },
  "found": [
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984447306219",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "ドリンクドランク",
+   "title": "ドリンクドランク",
+   "url": "https://tonarinoyj.jp/episode/12207421984447306219",
+   "firstSeen": "2026-11-05T03:51:04.122Z"
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984447306231",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "五智くんの奢られ道",
+   "title": "五智くんの奢られ道",
+   "url": "https://tonarinoyj.jp/episode/12207421984447306231",
+   "firstSeen": "2026-11-05T03:51:04.122Z"
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984447306212",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "なゆたの執着",
+   "title": "なゆたの執着",
+   "url": "https://tonarinoyj.jp/episode/12207421984447306212",
+   "firstSeen": "2026-11-05T03:51:04.122Z"
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984447306226",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "霜触さんは下ネタでゲラ笑いする",
+   "title": "霜触さんは下ネタでゲラ笑いする",
+   "url": "https://tonarinoyj.jp/episode/12207421984447306226",
+   "firstSeen": "2026-11-05T03:51:04.122Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257689745727",
    "kind": "oneshot",
