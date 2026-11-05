@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T03:51:04.122Z",
+ "updatedAt": "2026-11-05T18:21:38.766Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -285,6 +285,13 @@
    "name": "ブヨトピア",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257689746017",
+     "title": "[番外編2]ブヨトピア",
+     "url": "https://shonenjumpplus.com/episode/9253191257689746017",
+     "date": "2026-11-05T15:00:00.000Z",
+     "firstSeen": "2026-11-05T18:21:38.766Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257538010377",
      "title": "[第26話]ブヨトピア",
      "url": "https://shonenjumpplus.com/episode/9253191257538010377",
@@ -310,13 +317,6 @@
      "title": "[番外編]ブヨトピア",
      "url": "https://shonenjumpplus.com/episode/9253191254783402779",
      "date": "2026-07-02T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:17107094915254021467",
-     "title": "[第3話]ブヨトピア",
-     "url": "https://shonenjumpplus.com/episode/17107094915254021467",
-     "date": "2026-03-26T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -711,11 +711,11 @@
    "name": "神引きのモナーク",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984443235717",
-     "title": "第23話 ポニテと訪問者",
-     "url": "https://www.sunday-webry.com/episode/12207421984443235717",
-     "date": "2026-10-29T15:00:00.000Z",
-     "firstSeen": "2026-10-29T17:07:19.742Z"
+     "guid": "sunday_webry:episode:12207421984476426593",
+     "title": "第24話 神様とおひざ",
+     "url": "https://www.sunday-webry.com/episode/12207421984476426593",
+     "date": "2026-11-05T15:00:00.000Z",
+     "firstSeen": "2026-11-05T18:21:38.766Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983832812685",
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257689745915",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "エリィアンズ",
+   "title": "エリィアンズ",
+   "url": "https://shonenjumpplus.com/episode/9253191257689745915",
+   "firstSeen": "2026-11-05T18:21:38.766Z"
+  },
   {
    "key": "https://tonarinoyj.jp/episode/12207421984447306219",
    "kind": "oneshot",
