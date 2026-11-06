@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T03:47:45.492Z",
+ "updatedAt": "2026-11-06T17:43:25.876Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1064,6 +1064,13 @@
    "name": "羽鳥と古田の非日常茶飯事",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257689746299",
+     "title": "[番外イラスト]羽鳥と古田の非日常茶飯事",
+     "url": "https://shonenjumpplus.com/episode/9253191257689746299",
+     "date": "2026-11-06T15:00:00.000Z",
+     "firstSeen": "2026-11-06T17:43:25.876Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257382361613",
      "title": "[第24話]羽鳥と古田の非日常茶飯事",
      "url": "https://shonenjumpplus.com/episode/9253191257382361613",
@@ -1089,13 +1096,6 @@
      "title": "[第21話]羽鳥と古田の非日常茶飯事",
      "url": "https://shonenjumpplus.com/episode/9253191256479734399",
      "date": "2026-09-11T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256195090159",
-     "title": "[第20話]羽鳥と古田の非日常茶飯事",
-     "url": "https://shonenjumpplus.com/episode/9253191256195090159",
-     "date": "2026-08-28T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257689746171",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "Young Panther 19 Buchigillle Knowing",
+   "title": "Young Panther 19 Buchigillle Knowing",
+   "url": "https://shonenjumpplus.com/episode/9253191257689746171",
+   "firstSeen": "2026-11-06T17:43:25.876Z"
+  },
   {
    "key": "https://tonarinoyj.jp/episode/12207421984447306235",
    "kind": "oneshot",
@@ -1474,15 +1483,6 @@
    "series": "オニあに！",
    "title": "第1話 オニくる！",
    "url": "https://www.sunday-webry.com/episode/12207421984374812911",
-   "firstSeen": null
-  },
-  {
-   "key": "https://tonarinoyj.jp/episode/12207421984382605154",
-   "kind": "oneshot",
-   "site": "となりのYJ",
-   "series": "ウマ娘 シンデレラグレイ外伝",
-   "title": "[特別読切] ウマ娘 シンデレラグレイ外伝 挽回～The Hare and the Tortoise～",
-   "url": "https://tonarinoyj.jp/episode/12207421984382605154",
    "firstSeen": null
   }
  ]
