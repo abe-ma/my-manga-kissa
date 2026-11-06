@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T18:21:38.766Z",
+ "updatedAt": "2026-11-06T03:47:45.492Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -365,6 +365,13 @@
    "name": "つづら先輩は元カノだから",
    "episodes": [
     {
+     "guid": "tonarino_yj:episode:12207421984477313974",
+     "title": "[第14話] つづら先輩は元カノだから",
+     "url": "https://tonarinoyj.jp/episode/12207421984477313974",
+     "date": "2026-11-06T03:00:00.000Z",
+     "firstSeen": "2026-11-06T03:47:45.492Z"
+    },
+    {
      "guid": "tonarino_yj:episode:12207421984436708463",
      "title": "[第13話] つづら先輩は元カノだから",
      "url": "https://tonarinoyj.jp/episode/12207421984436708463",
@@ -390,13 +397,6 @@
      "title": "[第11話] つづら先輩は元カノだから",
      "url": "https://tonarinoyj.jp/episode/12207421984335808129",
      "date": "2026-10-09T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421984304051513",
-     "title": "[おまけイラスト2] つづら先輩は元カノだから",
-     "url": "https://tonarinoyj.jp/episode/12207421984304051513",
-     "date": "2026-10-02T03:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -998,13 +998,6 @@
      "firstSeen": null
     },
     {
-     "guid": "d8da26dc84954fd7474ead55b73ab221",
-     "title": "単行本告知",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/d8da26dc84954fd7474ead55b73ab221",
-     "date": "2026-10-01T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "17ed838328d9ff4f6e0c5399547b23dd",
      "title": "第３話",
      "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/17ed838328d9ff4f6e0c5399547b23dd",
@@ -1015,6 +1008,13 @@
      "guid": "2126db9af0e18db2d5e56ea13b20419b",
      "title": "第２話",
      "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/2126db9af0e18db2d5e56ea13b20419b",
+     "date": "2022-02-10T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "63993cffb920177bead3e9df81a55996",
+     "title": "第１話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/63993cffb920177bead3e9df81a55996",
      "date": "2022-02-10T15:00:00.000Z",
      "firstSeen": null
     }
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984447306235",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "燕のあやかし画帳",
+   "title": "燕のあやかし画帳",
+   "url": "https://tonarinoyj.jp/episode/12207421984447306235",
+   "firstSeen": "2026-11-06T03:47:45.492Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257689745915",
    "kind": "oneshot",
