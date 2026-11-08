@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T02:50:34.138Z",
+ "updatedAt": "2026-11-08T16:48:43.816Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -791,11 +791,11 @@
    "name": "となりの席のヤツがそういう目で見てくる",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984447735084",
-     "title": "第118話 足開いて？",
-     "url": "https://www.sunday-webry.com/episode/12207421984447735084",
-     "date": "2026-11-01T15:00:00.000Z",
-     "firstSeen": "2026-11-01T16:56:02.945Z"
+     "guid": "sunday_webry:episode:12207421984481243803",
+     "title": "第119話 泳いだ後に",
+     "url": "https://www.sunday-webry.com/episode/12207421984481243803",
+     "date": "2026-11-08T15:00:00.000Z",
+     "firstSeen": "2026-11-08T16:48:43.816Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984387325811",
@@ -911,17 +911,17 @@
    "name": "ポッピン・ポッピン・ペナルティ",
    "episodes": [
     {
+     "guid": "comicdays:episode:12207421983858385578",
+     "title": "第１０話　わたしは生涯の終わりに貴石に触れるのだ",
+     "url": "https://comic-days.com/episode/12207421983858385578",
+     "date": "2026-11-08T03:00:00.000Z",
+     "firstSeen": null
+    },
+    {
      "guid": "comicdays:episode:12207421983858385573",
      "title": "第９話　がんばれ　トマト！",
      "url": "https://comic-days.com/episode/12207421983858385573",
      "date": "2026-10-25T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "comicdays:episode:12207421983858385570",
-     "title": "第８話　テトラテルペン",
-     "url": "https://comic-days.com/episode/12207421983858385570",
-     "date": "2026-10-11T03:00:00.000Z",
      "firstSeen": null
     },
     {
