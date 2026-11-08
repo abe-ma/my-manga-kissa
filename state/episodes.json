@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T16:39:54.790Z",
+ "updatedAt": "2026-11-08T02:50:34.138Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1024,6 +1024,13 @@
    "name": "ファンタズマ・リリィ",
    "episodes": [
     {
+     "guid": "5578366928874045285",
+     "title": "第 124 話",
+     "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZS_2U",
+     "date": null,
+     "firstSeen": "2026-11-08T02:50:34.138Z"
+    },
+    {
      "guid": "5578366928873778043",
      "title": "第 123 話",
      "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZO63s",
@@ -1048,13 +1055,6 @@
      "guid": "5578366928873276413",
      "title": "第 120 話",
      "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZHQ_0",
-     "date": null,
-     "firstSeen": null
-    },
-    {
-     "guid": "5578366928872673805",
-     "title": "第 119 話",
-     "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpY-Eg0",
      "date": null,
      "firstSeen": null
     }
