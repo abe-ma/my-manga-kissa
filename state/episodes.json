@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T03:09:30.202Z",
+ "updatedAt": "2026-11-09T21:08:56.920Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -831,11 +831,11 @@
    "name": "#ギャルとギャルの百合",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984435787565",
-     "title": "#29 #マブになる",
-     "url": "https://www.sunday-webry.com/episode/12207421984435787565",
-     "date": "2026-10-26T15:00:00.000Z",
-     "firstSeen": "2026-10-26T17:02:06.757Z"
+     "guid": "sunday_webry:episode:12207421984500100363",
+     "title": "#30 #うちらも",
+     "url": "https://www.sunday-webry.com/episode/12207421984500100363",
+     "date": "2026-11-09T15:00:00.000Z",
+     "firstSeen": "2026-11-09T21:08:56.920Z"
     },
     {
      "guid": "sunday_webry:episode:2551460909968584080",
@@ -1144,6 +1144,13 @@
    "name": "糸と鎧",
    "episodes": [
     {
+     "guid": "7fad225c882095e4a93bce98c9af6060",
+     "title": "第７話　マリエットとの約束",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/7fad225c882095e4a93bce98c9af6060",
+     "date": "2026-11-09T15:00:00.000Z",
+     "firstSeen": "2026-11-09T21:08:56.920Z"
+    },
+    {
      "guid": "0d4915319ccc6790996e6f02f7daf1e8",
      "title": "第６話　呵責の呪い",
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/0d4915319ccc6790996e6f02f7daf1e8",
@@ -1155,13 +1162,6 @@
      "title": "第５話　盲信の呪い",
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/5bf099c0ae5511a8be5b7a21a7b04621",
      "date": "2026-10-26T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "340807fd16264efd7b10f2a64b7978f2",
-     "title": "第４話　樹の惨禍アルラウネ",
-     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/340807fd16264efd7b10f2a64b7978f2",
-     "date": "2026-10-19T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257737706320",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "怪奇！まかぶる家",
+   "title": "怪奇！まかぶる家",
+   "url": "https://shonenjumpplus.com/episode/9253191257737706320",
+   "firstSeen": "2026-11-09T21:08:56.920Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257689746364",
    "kind": "oneshot",
@@ -1474,15 +1483,6 @@
    "series": "姉のともだち",
    "title": "[第1話]姉のともだち",
    "url": "https://shonenjumpplus.com/episode/9253191257288002492",
-   "firstSeen": null
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257288003944",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "GANTZ:E",
-   "title": "[第1話]GANTZ:E",
-   "url": "https://shonenjumpplus.com/episode/9253191257288003944",
    "firstSeen": null
   }
  ]
