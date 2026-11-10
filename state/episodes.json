@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T21:08:56.920Z",
+ "updatedAt": "2026-11-10T04:51:24.270Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -445,6 +445,13 @@
    "name": "スライム聖女",
    "episodes": [
     {
+     "guid": "tonarino_yj:episode:12207421984480485127",
+     "title": "[第68話] スライム聖女",
+     "url": "https://tonarinoyj.jp/episode/12207421984480485127",
+     "date": "2026-11-10T03:00:00.000Z",
+     "firstSeen": "2026-11-10T04:51:24.270Z"
+    },
+    {
      "guid": "tonarino_yj:episode:12207421984415780108",
      "title": "[第67話] スライム聖女",
      "url": "https://tonarinoyj.jp/episode/12207421984415780108",
@@ -470,13 +477,6 @@
      "title": "[第64話] スライム聖女",
      "url": "https://tonarinoyj.jp/episode/12207421984208929879",
      "date": "2026-09-15T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421984093802398",
-     "title": "[第63話] スライム聖女",
-     "url": "https://tonarinoyj.jp/episode/12207421984093802398",
-     "date": "2026-08-18T03:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1184,18 +1184,18 @@
    "name": "絶対死なないステラ姫",
    "episodes": [
     {
+     "guid": "comicdays:episode:12207421984094176001",
+     "title": "第２４話　絶対２代目にならない(後編)②",
+     "url": "https://comic-days.com/episode/12207421984094176001",
+     "date": "2026-11-09T15:00:00.000Z",
+     "firstSeen": "2026-11-10T04:51:24.270Z"
+    },
+    {
      "guid": "comicdays:episode:12207421984094175998",
      "title": "第２４話　絶対２代目にならない(後編)①",
      "url": "https://comic-days.com/episode/12207421984094175998",
      "date": "2026-11-02T15:00:00.000Z",
      "firstSeen": "2026-11-03T04:10:16.980Z"
-    },
-    {
-     "guid": "comicdays:episode:12207421984094175994",
-     "title": "第２４話　絶対２代目にならない(前編)②",
-     "url": "https://comic-days.com/episode/12207421984094175994",
-     "date": "2026-10-26T15:00:00.000Z",
-     "firstSeen": null
     },
     {
      "guid": "comicdays:episode:2550912964546522823",
