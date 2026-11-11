@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T03:17:26.464Z",
+ "updatedAt": "2026-11-11T18:10:25.362Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -525,11 +525,11 @@
    "name": "廻天のアルバス",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984475731077",
-     "title": "第106話 推しの子",
-     "url": "https://www.sunday-webry.com/episode/12207421984475731077",
-     "date": "2026-11-04T15:00:00.000Z",
-     "firstSeen": "2026-11-04T18:16:34.346Z"
+     "guid": "sunday_webry:episode:12207421984503980223",
+     "title": "第107話 変わってく",
+     "url": "https://www.sunday-webry.com/episode/12207421984503980223",
+     "date": "2026-11-11T15:00:00.000Z",
+     "firstSeen": "2026-11-11T18:10:25.362Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983608463863",
@@ -1216,6 +1216,24 @@
  },
  "found": [
   {
+   "key": "https://shonenjumpplus.com/episode/9253191257737707581",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "或るモノからの依頼X",
+   "title": "或るモノからの依頼X",
+   "url": "https://shonenjumpplus.com/episode/9253191257737707581",
+   "firstSeen": "2026-11-11T18:10:25.362Z"
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257707801284",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "幻覚ピカソ",
+   "title": "[第1話]幻覚ピカソ",
+   "url": "https://shonenjumpplus.com/episode/9253191257707801284",
+   "firstSeen": "2026-11-11T18:10:25.362Z"
+  },
+  {
    "key": "https://www.sunday-webry.com/episode/12207421984407198424",
    "kind": "oneshot",
    "site": "サンデーうぇぶり",
@@ -1465,24 +1483,6 @@
    "series": "縁怪／26年8月期JUMP新世界漫画賞／週刊少年ジャンプ",
    "title": "縁怪／26年8月期JUMP新世界漫画賞／週刊少年ジャンプ",
    "url": "https://shonenjumpplus.com/episode/9253191257382360932",
-   "firstSeen": null
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257227140714",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "パーフェクト・テオ",
-   "title": "パーフェクト・テオ",
-   "url": "https://shonenjumpplus.com/episode/9253191257227140714",
-   "firstSeen": null
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257232010936",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "みーちゃんは飼われたい",
-   "title": "[第1話]みーちゃんは飼われたい",
-   "url": "https://shonenjumpplus.com/episode/9253191257232010936",
    "firstSeen": null
   }
  ]
