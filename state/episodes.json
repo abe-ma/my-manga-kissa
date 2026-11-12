@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T18:10:25.362Z",
+ "updatedAt": "2026-11-12T04:28:29.969Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -991,13 +991,6 @@
      "firstSeen": null
     },
     {
-     "guid": "ec7b0da4790ea1bd60bf82a5bef7c281",
-     "title": "第１８１話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/ec7b0da4790ea1bd60bf82a5bef7c281",
-     "date": "2026-10-04T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "17ed838328d9ff4f6e0c5399547b23dd",
      "title": "第３話",
      "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/17ed838328d9ff4f6e0c5399547b23dd",
@@ -1215,6 +1208,24 @@
   }
  },
  "found": [
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984475668997",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "あのこの冷蔵庫",
+   "title": "あのこの冷蔵庫",
+   "url": "https://tonarinoyj.jp/episode/12207421984475668997",
+   "firstSeen": "2026-11-12T04:28:29.969Z"
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984454510595",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "コハクさんのへべれけ事情",
+   "title": "コハクさんのへべれけ事情",
+   "url": "https://tonarinoyj.jp/episode/12207421984454510595",
+   "firstSeen": "2026-11-12T04:28:29.969Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257737707581",
    "kind": "oneshot",
@@ -1465,24 +1476,6 @@
    "series": "夏の嵐がやってくる！／MANGA Plus Creators by SHUEISHA",
    "title": "夏の嵐がやってくる！／MANGA Plus Creators by SHUEISHA",
    "url": "https://shonenjumpplus.com/episode/9253191257382361255",
-   "firstSeen": null
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257382360962",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "カミサマノ弔イ",
-   "title": "カミサマノ弔イ",
-   "url": "https://shonenjumpplus.com/episode/9253191257382360962",
-   "firstSeen": null
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257382360932",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "縁怪／26年8月期JUMP新世界漫画賞／週刊少年ジャンプ",
-   "title": "縁怪／26年8月期JUMP新世界漫画賞／週刊少年ジャンプ",
-   "url": "https://shonenjumpplus.com/episode/9253191257382360932",
    "firstSeen": null
   }
  ]
