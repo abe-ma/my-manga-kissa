@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T03:43:18.597Z",
+ "updatedAt": "2026-11-13T18:11:17.203Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -245,6 +245,13 @@
    "name": "SATANICA",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257737711157",
+     "title": "[17話]SATANICA",
+     "url": "https://shonenjumpplus.com/episode/9253191257737711157",
+     "date": "2026-11-13T15:00:00.000Z",
+     "firstSeen": "2026-11-13T18:11:17.203Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257538010503",
      "title": "[16話]SATANICA",
      "url": "https://shonenjumpplus.com/episode/9253191257538010503",
@@ -270,13 +277,6 @@
      "title": "[13話]SATANICA",
      "url": "https://shonenjumpplus.com/episode/9253191256637716512",
      "date": "2026-09-18T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191256340472805",
-     "title": "[12話]SATANICA",
-     "url": "https://shonenjumpplus.com/episode/9253191256340472805",
-     "date": "2026-09-04T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -871,11 +871,11 @@
    "name": "魔王さま、リリリベンジ！",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984447631741",
-     "title": "第13話 夏祭り、ひとごみとふたり",
-     "url": "https://www.sunday-webry.com/episode/12207421984447631741",
-     "date": "2026-10-30T15:00:00.000Z",
-     "firstSeen": "2026-10-30T16:50:34.118Z"
+     "guid": "sunday_webry:episode:12207421984513542692",
+     "title": "第14話 衝突、遭遇、はじめまして？！",
+     "url": "https://www.sunday-webry.com/episode/12207421984513542692",
+     "date": "2026-11-13T15:00:00.000Z",
+     "firstSeen": "2026-11-13T18:11:17.203Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984355367906",
@@ -1216,6 +1216,15 @@
  },
  "found": [
   {
+   "key": "https://shonenjumpplus.com/episode/9253191257737710940",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "これから死ぬ",
+   "title": "これから死ぬ",
+   "url": "https://shonenjumpplus.com/episode/9253191257737710940",
+   "firstSeen": "2026-11-13T18:11:17.203Z"
+  },
+  {
    "key": "https://shonenjumpplus.com/episode/9253191257803633641",
    "kind": "new",
    "site": "ジャンプ+",
@@ -1474,15 +1483,6 @@
    "series": "踊り子",
    "title": "踊り子",
    "url": "https://shonenjumpplus.com/episode/9253191257382361377",
-   "firstSeen": null
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257382361268",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "アコーディオン弾き",
-   "title": "アコーディオン弾き",
-   "url": "https://shonenjumpplus.com/episode/9253191257382361268",
    "firstSeen": null
   }
  ]
