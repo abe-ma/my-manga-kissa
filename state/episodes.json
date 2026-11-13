@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T18:37:54.491Z",
+ "updatedAt": "2026-11-13T03:43:18.597Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -365,6 +365,13 @@
    "name": "つづら先輩は元カノだから",
    "episodes": [
     {
+     "guid": "tonarino_yj:episode:12207421984486492576",
+     "title": "[おまけイラスト4] つづら先輩は元カノだから",
+     "url": "https://tonarinoyj.jp/episode/12207421984486492576",
+     "date": "2026-11-13T03:00:00.000Z",
+     "firstSeen": "2026-11-13T03:43:18.597Z"
+    },
+    {
      "guid": "tonarino_yj:episode:12207421984477313974",
      "title": "[第14話] つづら先輩は元カノだから",
      "url": "https://tonarinoyj.jp/episode/12207421984477313974",
@@ -390,13 +397,6 @@
      "title": "[第12話] つづら先輩は元カノだから",
      "url": "https://tonarinoyj.jp/episode/12207421984373430102",
      "date": "2026-10-16T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421984335808129",
-     "title": "[第11話] つづら先輩は元カノだから",
-     "url": "https://tonarinoyj.jp/episode/12207421984335808129",
-     "date": "2026-10-09T03:00:00.000Z",
      "firstSeen": null
     }
    ]
