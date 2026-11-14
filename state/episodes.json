@@ -1,9 +1,16 @@
 {
- "updatedAt": "2026-11-14T03:41:54.375Z",
+ "updatedAt": "2026-11-14T16:46:05.989Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
    "episodes": [
+    {
+     "guid": "jump_plus:episode:9253191257737711439",
+     "title": "[75話]英雄機関",
+     "url": "https://shonenjumpplus.com/episode/9253191257737711439",
+     "date": "2026-11-14T15:00:00.000Z",
+     "firstSeen": "2026-11-14T16:46:05.989Z"
+    },
     {
      "guid": "jump_plus:episode:9253191257689746384",
      "title": "[74話]英雄機関",
@@ -17,13 +24,6 @@
      "url": "https://shonenjumpplus.com/episode/9253191257382361704",
      "date": "2026-10-24T15:00:00.000Z",
      "firstSeen": "2026-10-25T01:52:33.267Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257227141622",
-     "title": "[72話]英雄機関",
-     "url": "https://shonenjumpplus.com/episode/9253191257227141622",
-     "date": "2026-10-17T15:00:00.000Z",
-     "firstSeen": null
     },
     {
      "guid": "jump_plus:episode:17106567263566705504",
@@ -325,18 +325,18 @@
    "name": "無敵のスバル",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257737711505",
+     "title": "[第28話]無敵のスバル",
+     "url": "https://shonenjumpplus.com/episode/9253191257737711505",
+     "date": "2026-11-14T15:00:00.000Z",
+     "firstSeen": "2026-11-14T16:46:05.989Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257689746440",
      "title": "[第27話]無敵のスバル",
      "url": "https://shonenjumpplus.com/episode/9253191257689746440",
      "date": "2026-11-07T15:00:00.000Z",
      "firstSeen": "2026-11-07T16:39:54.790Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257538010575",
-     "title": "[第26話]無敵のスバル",
-     "url": "https://shonenjumpplus.com/episode/9253191257538010575",
-     "date": "2026-10-31T15:00:00.000Z",
-     "firstSeen": "2026-10-31T15:54:33.585Z"
     },
     {
      "guid": "jump_plus:episode:17107419589536396687",
@@ -1216,6 +1216,24 @@
  },
  "found": [
   {
+   "key": "https://shonenjumpplus.com/episode/9253191257737711313",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "ファンタズマリリィ",
+   "title": "[1話]ファンタズマリリィ",
+   "url": "https://shonenjumpplus.com/episode/9253191257737711313",
+   "firstSeen": "2026-11-14T16:46:05.989Z"
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984439794136",
+   "kind": "oneshot",
+   "site": "サンデーうぇぶり",
+   "series": "ニニョ・サーカス",
+   "title": "ニニョ・サーカス",
+   "url": "https://www.sunday-webry.com/episode/12207421984439794136",
+   "firstSeen": "2026-11-14T16:46:05.989Z"
+  },
+  {
    "key": "https://shonenjumpplus.com/episode/9253191257737710940",
    "kind": "oneshot",
    "site": "ジャンプ+",
@@ -1466,24 +1484,6 @@
    "title": "風船の幽霊/2026年9月期ブロンズルーキー賞",
    "url": "https://shonenjumpplus.com/episode/9253191257538010645",
    "firstSeen": "2026-10-25T01:52:33.267Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257382361538",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "闇捨て穴",
-   "title": "[第1話]闇捨て穴",
-   "url": "https://shonenjumpplus.com/episode/9253191257382361538",
-   "firstSeen": "2026-10-23T15:30:09.075Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257382361377",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "踊り子",
-   "title": "踊り子",
-   "url": "https://shonenjumpplus.com/episode/9253191257382361377",
-   "firstSeen": null
   }
  ]
 }
