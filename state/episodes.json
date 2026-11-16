@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T03:20:32.397Z",
+ "updatedAt": "2026-11-16T20:42:05.271Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -165,18 +165,18 @@
    "name": "MAD",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982513698",
+     "title": "[58話]MAD",
+     "url": "https://shonenjumpplus.com/episode/9253191257982513698",
+     "date": "2026-11-16T15:00:00.000Z",
+     "firstSeen": "2026-11-16T20:42:05.271Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257689745302",
      "title": "[57話]MAD",
      "url": "https://shonenjumpplus.com/episode/9253191257689745302",
      "date": "2026-11-02T15:00:00.000Z",
      "firstSeen": "2026-11-02T20:32:35.095Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257382360997",
-     "title": "[56話]MAD",
-     "url": "https://shonenjumpplus.com/episode/9253191257382360997",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
     },
     {
      "guid": "jump_plus:episode:9253191257069547559",
@@ -645,11 +645,11 @@
    "name": "吉田だより",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984466449571",
-     "title": "第5話 吉田とシニア",
-     "url": "https://www.sunday-webry.com/episode/12207421984466449571",
-     "date": "2026-11-02T15:00:00.000Z",
-     "firstSeen": "2026-11-02T20:32:35.095Z"
+     "guid": "sunday_webry:episode:12207421984530321590",
+     "title": "第6話 吉田の異常な愛情",
+     "url": "https://www.sunday-webry.com/episode/12207421984530321590",
+     "date": "2026-11-16T15:00:00.000Z",
+     "firstSeen": "2026-11-16T20:42:05.271Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984335542897",
@@ -1144,6 +1144,13 @@
    "name": "糸と鎧",
    "episodes": [
     {
+     "guid": "d06dcbfc53b1fe1e3db6d25e3d28cbc1",
+     "title": "第８話　ダンの希望",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/d06dcbfc53b1fe1e3db6d25e3d28cbc1",
+     "date": "2026-11-16T15:00:00.000Z",
+     "firstSeen": "2026-11-16T20:42:05.271Z"
+    },
+    {
      "guid": "7fad225c882095e4a93bce98c9af6060",
      "title": "第７話　マリエットとの約束",
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/7fad225c882095e4a93bce98c9af6060",
@@ -1156,13 +1163,6 @@
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/0d4915319ccc6790996e6f02f7daf1e8",
      "date": "2026-11-02T15:00:00.000Z",
      "firstSeen": "2026-11-02T20:32:35.095Z"
-    },
-    {
-     "guid": "5bf099c0ae5511a8be5b7a21a7b04621",
-     "title": "第５話　盲信の呪い",
-     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/5bf099c0ae5511a8be5b7a21a7b04621",
-     "date": "2026-10-26T15:00:00.000Z",
-     "firstSeen": null
     },
     {
      "guid": "aaa94e7c4cf64415bd93917dca910c31",
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257982513673",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "ステゴロ高校風紀委員",
+   "title": "ステゴロ高校風紀委員",
+   "url": "https://shonenjumpplus.com/episode/9253191257982513673",
+   "firstSeen": "2026-11-16T20:42:05.271Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257737711313",
    "kind": "new",
@@ -1474,15 +1483,6 @@
    "series": "怪人ベルト",
    "title": "怪人ベルト",
    "url": "https://shonenjumpplus.com/episode/9253191257382361673",
-   "firstSeen": "2026-10-25T01:52:33.267Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257538010645",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "風船の幽霊/2026年9月期ブロンズルーキー賞",
-   "title": "風船の幽霊/2026年9月期ブロンズルーキー賞",
-   "url": "https://shonenjumpplus.com/episode/9253191257538010645",
    "firstSeen": "2026-10-25T01:52:33.267Z"
   }
  ]
