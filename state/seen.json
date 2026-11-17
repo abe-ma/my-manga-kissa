@@ -512,7 +512,8 @@
    "sunday_webry:episode:2550689798720514298",
    "sunday_webry:episode:12207421984440175019",
    "sunday_webry:episode:12207421984467508049",
-   "sunday_webry:episode:12207421984504574421"
+   "sunday_webry:episode:12207421984504574421",
+   "sunday_webry:episode:12207421984535973165"
   ],
   "https://www.sunday-webry.com/rss/series/12207421983634708480": [
    "sunday_webry:episode:12207421984416966188",
@@ -588,7 +589,8 @@
    "sunday_webry:episode:2550912965880705000",
    "sunday_webry:episode:2550912965879578039",
    "sunday_webry:episode:2550912965846148434",
-   "sunday_webry:episode:2550912965844751366"
+   "sunday_webry:episode:2550912965844751366",
+   "sunday_webry:episode:12207421984531638433"
   ],
   "https://www.sunday-webry.com/rss/series/2550689798705990744": [
    "sunday_webry:episode:12207421984387325811",
@@ -763,7 +765,9 @@
    "979eaf55cf3ba8f0d65c467dc63e836b",
    "94bfc8ba9f6d5b16c183b806aa588d7e",
    "c2fb7107735238c05c26cfa0fafa5b20",
-   "af4ef7c663080ea8f20a229df4b3fd0f"
+   "af4ef7c663080ea8f20a229df4b3fd0f",
+   "d89b9178641d5acf520854c3bbe67a14",
+   "6a45ce5008df90891077b26b6dc2ad92"
   ],
   "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B": [
    "d64d271459bfae64f78943b78373df15",
@@ -937,7 +941,8 @@
    "jump_plus:episode:9253191256672008555",
    "jump_plus:episode:9253191256637716071",
    "jump_plus:episode:9253191257689745661",
-   "jump_plus:episode:9253191257737707418"
+   "jump_plus:episode:9253191257737707418",
+   "jump_plus:episode:9253191257982513879"
   ],
   "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7": [
    "5bf099c0ae5511a8be5b7a21a7b04621",
@@ -1004,6 +1009,9 @@
   "https://shonenjumpplus.com/episode/9253191257737711313",
   "https://www.sunday-webry.com/episode/12207421984439794136",
   "https://shonenjumpplus.com/episode/9253191257982513673",
-  "https://tonarinoyj.jp/episode/12207421984480485123"
+  "https://tonarinoyj.jp/episode/12207421984480485123",
+  "https://shonenjumpplus.com/episode/9253191257982513815",
+  "https://shonenjumpplus.com/episode/9253191257799665696",
+  "https://shonenjumpplus.com/episode/9253191257982513905"
  ]
 }

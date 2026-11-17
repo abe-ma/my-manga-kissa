@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T05:20:58.674Z",
+ "updatedAt": "2026-11-17T19:26:55.393Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -565,11 +565,11 @@
    "name": "ロードマギアの弟子",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984504574421",
-     "title": "第82話 王都の戦い2",
-     "url": "https://www.sunday-webry.com/episode/12207421984504574421",
-     "date": "2026-11-10T15:00:00.000Z",
-     "firstSeen": "2026-11-10T18:20:34.625Z"
+     "guid": "sunday_webry:episode:12207421984535973165",
+     "title": "第83話 王都の戦い3",
+     "url": "https://www.sunday-webry.com/episode/12207421984535973165",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984467508049",
@@ -751,17 +751,17 @@
    "name": "お嬢様系底辺ダンジョン配信者、迷惑系をボコったらバズって伝説になってますわ！？",
    "episodes": [
     {
+     "guid": "sunday_webry:episode:12207421984531638433",
+     "title": "第31話 世界崩壊クラン",
+     "url": "https://www.sunday-webry.com/episode/12207421984531638433",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
+    },
+    {
      "guid": "sunday_webry:episode:12207421984387337186",
      "title": "単行本メイキング",
      "url": "https://www.sunday-webry.com/episode/12207421984387337186",
      "date": "2026-10-18T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "sunday_webry:episode:12207421984406138792",
-     "title": "第30話 バーサーカー配信(と世界の危機)",
-     "url": "https://www.sunday-webry.com/episode/12207421984406138792",
-     "date": "2026-10-20T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -944,18 +944,18 @@
    "name": "魔力枯れのダークエルフ",
    "episodes": [
     {
-     "guid": "6c0c66f987f434a4d849df6078282ea8",
-     "title": "第１０話　超えるしかない②",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/6c0c66f987f434a4d849df6078282ea8",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "d89b9178641d5acf520854c3bbe67a14",
+     "title": "第１１話　超えるべき壁が見えてる②",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/d89b9178641d5acf520854c3bbe67a14",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
     },
     {
-     "guid": "979eaf55cf3ba8f0d65c467dc63e836b",
-     "title": "第１０話　超えるしかない①",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/979eaf55cf3ba8f0d65c467dc63e836b",
-     "date": "2026-10-19T15:00:00.000Z",
-     "firstSeen": null
+     "guid": "6a45ce5008df90891077b26b6dc2ad92",
+     "title": "第１１話　超えるべき壁が見えてる①",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/6a45ce5008df90891077b26b6dc2ad92",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
     },
     {
      "guid": "94bfc8ba9f6d5b16c183b806aa588d7e",
@@ -1104,6 +1104,13 @@
    "name": "エヴァンジェリンは靴を履く",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982513879",
+     "title": "[10話]エヴァンジェリンは靴を履く",
+     "url": "https://shonenjumpplus.com/episode/9253191257982513879",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257737707418",
      "title": "[9話]エヴァンジェリンは靴を履く",
      "url": "https://shonenjumpplus.com/episode/9253191257737707418",
@@ -1129,13 +1136,6 @@
      "title": "[6話]エヴァンジェリンは靴を履く",
      "url": "https://shonenjumpplus.com/episode/9253191257382361181",
      "date": "2026-10-20T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191257227137517",
-     "title": "[5話]エヴァンジェリンは靴を履く",
-     "url": "https://shonenjumpplus.com/episode/9253191257227137517",
-     "date": "2026-10-13T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1215,6 +1215,33 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257982513815",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "ノー・マンズ・サテライト",
+   "title": "ノー・マンズ・サテライト",
+   "url": "https://shonenjumpplus.com/episode/9253191257982513815",
+   "firstSeen": "2026-11-17T19:26:55.393Z"
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257799665696",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "げにかすり",
+   "title": "[第1話]げにかすり",
+   "url": "https://shonenjumpplus.com/episode/9253191257799665696",
+   "firstSeen": "2026-11-17T19:26:55.393Z"
+  },
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257982513905",
+   "kind": "new",
+   "site": "ジャンプ+",
+   "series": "ジャンがあぶない！／週刊少年ジャンプ新連載試し読み",
+   "title": "[1話]ジャンがあぶない！／週刊少年ジャンプ新連載試し読み",
+   "url": "https://shonenjumpplus.com/episode/9253191257982513905",
+   "firstSeen": "2026-11-17T19:26:55.393Z"
+  },
   {
    "key": "https://tonarinoyj.jp/episode/12207421984480485123",
    "kind": "new",
@@ -1457,33 +1484,6 @@
    "title": "[第1話]うつろうカノジョたち",
    "url": "https://shonenjumpplus.com/episode/9253191257538010369",
    "firstSeen": "2026-10-29T17:07:19.742Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257538010166",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "オヴェハネグラ号の悪夢",
-   "title": "[第1話]オヴェハネグラ号の悪夢",
-   "url": "https://shonenjumpplus.com/episode/9253191257538010166",
-   "firstSeen": "2026-10-27T16:05:31.418Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257538009983",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "妖怪結婚相談所",
-   "title": "妖怪結婚相談所",
-   "url": "https://shonenjumpplus.com/episode/9253191257538009983",
-   "firstSeen": "2026-10-26T01:54:06.244Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257538010663",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "ウロボロスの二人/2026年9月期ブロンズルーキー賞",
-   "title": "ウロボロスの二人/2026年9月期ブロンズルーキー賞",
-   "url": "https://shonenjumpplus.com/episode/9253191257538010663",
-   "firstSeen": "2026-10-26T01:54:06.244Z"
   }
  ]
 }
