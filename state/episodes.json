@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T20:42:05.271Z",
+ "updatedAt": "2026-11-17T05:20:58.674Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1216,6 +1216,15 @@
  },
  "found": [
   {
+   "key": "https://tonarinoyj.jp/episode/12207421984480485123",
+   "kind": "new",
+   "site": "となりのYJ",
+   "series": "田舎者のおっさんは無自覚に無双する～たった一人で門番をしてたら、いつの間にか最強になっていた～",
+   "title": "[第1話] 田舎者のおっさんは無自覚に無双する～たった一人で門番をしてたら、いつの間にか最強になっていた～",
+   "url": "https://tonarinoyj.jp/episode/12207421984480485123",
+   "firstSeen": "2026-11-17T05:20:58.674Z"
+  },
+  {
    "key": "https://shonenjumpplus.com/episode/9253191257982513673",
    "kind": "oneshot",
    "site": "ジャンプ+",
@@ -1475,15 +1484,6 @@
    "title": "ウロボロスの二人/2026年9月期ブロンズルーキー賞",
    "url": "https://shonenjumpplus.com/episode/9253191257538010663",
    "firstSeen": "2026-10-26T01:54:06.244Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257382361673",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "怪人ベルト",
-   "title": "怪人ベルト",
-   "url": "https://shonenjumpplus.com/episode/9253191257382361673",
-   "firstSeen": "2026-10-25T01:52:33.267Z"
   }
  ]
 }
