@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T04:48:18.722Z",
+ "updatedAt": "2026-11-18T19:09:56.240Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -45,6 +45,13 @@
    "name": "神ヨムふたり",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982513990",
+     "title": "[第22話]神ヨムふたり",
+     "url": "https://shonenjumpplus.com/episode/9253191257982513990",
+     "date": "2026-11-18T15:00:00.000Z",
+     "firstSeen": "2026-11-18T19:09:56.240Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257689745854",
      "title": "[第21話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257689745854",
@@ -63,13 +70,6 @@
      "title": "[特別編2＋第18.5話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257382361344",
      "date": "2026-10-21T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191257227138759",
-     "title": "[第19話]神ヨムふたり",
-     "url": "https://shonenjumpplus.com/episode/9253191257227138759",
-     "date": "2026-10-14T15:00:00.000Z",
      "firstSeen": null
     },
     {
@@ -1216,6 +1216,24 @@
  },
  "found": [
   {
+   "key": "https://shonenjumpplus.com/episode/9253191257982513915",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "超センター分け",
+   "title": "超センター分け",
+   "url": "https://shonenjumpplus.com/episode/9253191257982513915",
+   "firstSeen": "2026-11-18T19:09:56.240Z"
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984535360459",
+   "kind": "oneshot",
+   "site": "サンデーうぇぶり",
+   "series": "青春には遅すぎる",
+   "title": "青春には遅すぎる",
+   "url": "https://www.sunday-webry.com/episode/12207421984535360459",
+   "firstSeen": "2026-11-18T19:09:56.240Z"
+  },
+  {
    "key": "https://shonenjumpplus.com/episode/9253191257982513815",
    "kind": "oneshot",
    "site": "ジャンプ+",
@@ -1466,24 +1484,6 @@
    "title": "ﾒﾛ井くん",
    "url": "https://shonenjumpplus.com/episode/9253191257538010541",
    "firstSeen": "2026-10-31T15:54:33.585Z"
-  },
-  {
-   "key": "https://www.sunday-webry.com/episode/12207421984439791475",
-   "kind": "oneshot",
-   "site": "サンデーうぇぶり",
-   "series": "脚",
-   "title": "脚",
-   "url": "https://www.sunday-webry.com/episode/12207421984439791475",
-   "firstSeen": "2026-10-31T15:54:33.585Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257538010369",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "うつろうカノジョたち",
-   "title": "[第1話]うつろうカノジョたち",
-   "url": "https://shonenjumpplus.com/episode/9253191257538010369",
-   "firstSeen": "2026-10-29T17:07:19.742Z"
   }
  ]
 }
