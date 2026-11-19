@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T04:39:07.110Z",
+ "updatedAt": "2026-11-19T19:12:49.383Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -85,6 +85,13 @@
    "name": "世界を繋ぎ尽くすインターネット巫女",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982514161",
+     "title": "[21話]世界を繋ぎ尽くすインターネット巫女",
+     "url": "https://shonenjumpplus.com/episode/9253191257982514161",
+     "date": "2026-11-19T15:00:00.000Z",
+     "firstSeen": "2026-11-19T19:12:49.383Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257737710883",
      "title": "[20話]世界を繋ぎ尽くすインターネット巫女",
      "url": "https://shonenjumpplus.com/episode/9253191257737710883",
@@ -110,13 +117,6 @@
      "title": "[17話]世界を繋ぎ尽くすインターネット巫女",
      "url": "https://shonenjumpplus.com/episode/9253191257227140373",
      "date": "2026-10-15T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191254350319609",
-     "title": "[3話]世界を繋ぎ尽くすインターネット巫女",
-     "url": "https://shonenjumpplus.com/episode/9253191254350319609",
-     "date": "2026-06-11T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -285,6 +285,13 @@
    "name": "ブヨトピア",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982514089",
+     "title": "[第28話]ブヨトピア",
+     "url": "https://shonenjumpplus.com/episode/9253191257982514089",
+     "date": "2026-11-19T15:00:00.000Z",
+     "firstSeen": "2026-11-19T19:12:49.383Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257737710642",
      "title": "[第27話]ブヨトピア",
      "url": "https://shonenjumpplus.com/episode/9253191257737710642",
@@ -304,13 +311,6 @@
      "url": "https://shonenjumpplus.com/episode/9253191257538010377",
      "date": "2026-10-29T15:00:00.000Z",
      "firstSeen": "2026-10-29T17:07:19.742Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257382361447",
-     "title": "[第25話]ブヨトピア",
-     "url": "https://shonenjumpplus.com/episode/9253191257382361447",
-     "date": "2026-10-22T15:00:00.000Z",
-     "firstSeen": null
     },
     {
      "guid": "jump_plus:episode:9253191254783402779",
@@ -711,11 +711,11 @@
    "name": "神引きのモナーク",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984512493851",
-     "title": "第25話 タケモトの過去1",
-     "url": "https://www.sunday-webry.com/episode/12207421984512493851",
-     "date": "2026-11-12T15:00:00.000Z",
-     "firstSeen": "2026-11-12T18:37:54.491Z"
+     "guid": "sunday_webry:episode:12207421984543444753",
+     "title": "第26話 タケモトの過去2",
+     "url": "https://www.sunday-webry.com/episode/12207421984543444753",
+     "date": "2026-11-19T15:00:00.000Z",
+     "firstSeen": "2026-11-19T19:12:49.383Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983832812685",
@@ -940,79 +940,6 @@
     }
    ]
   },
-  "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95": {
-   "name": "魔力枯れのダークエルフ",
-   "episodes": [
-    {
-     "guid": "d89b9178641d5acf520854c3bbe67a14",
-     "title": "第１１話　超えるべき壁が見えてる②",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/d89b9178641d5acf520854c3bbe67a14",
-     "date": "2026-11-17T15:00:00.000Z",
-     "firstSeen": "2026-11-17T19:26:55.393Z"
-    },
-    {
-     "guid": "6a45ce5008df90891077b26b6dc2ad92",
-     "title": "第１１話　超えるべき壁が見えてる①",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/6a45ce5008df90891077b26b6dc2ad92",
-     "date": "2026-11-17T15:00:00.000Z",
-     "firstSeen": "2026-11-17T19:26:55.393Z"
-    },
-    {
-     "guid": "94bfc8ba9f6d5b16c183b806aa588d7e",
-     "title": "第３話　星空①",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/94bfc8ba9f6d5b16c183b806aa588d7e",
-     "date": "2026-02-18T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "c2fb7107735238c05c26cfa0fafa5b20",
-     "title": "第２話　昨日よりも",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/c2fb7107735238c05c26cfa0fafa5b20",
-     "date": "2026-01-19T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "af4ef7c663080ea8f20a229df4b3fd0f",
-     "title": "第１話　ダークエルフのアミラ",
-     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/af4ef7c663080ea8f20a229df4b3fd0f",
-     "date": "2025-12-16T15:00:00.000Z",
-     "firstSeen": null
-    }
-   ]
-  },
-  "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B": {
-   "name": "大ハズレだと追放された転生重騎士はゲーム知識で無双する",
-   "episodes": [
-    {
-     "guid": "b076216d43b5c18f5fcb66d10ba08bfb",
-     "title": "第１８３話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/b076216d43b5c18f5fcb66d10ba08bfb",
-     "date": "2026-10-18T15:00:00.000Z",
-     "firstSeen": "2026-11-12T18:37:54.491Z"
-    },
-    {
-     "guid": "17ed838328d9ff4f6e0c5399547b23dd",
-     "title": "第３話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/17ed838328d9ff4f6e0c5399547b23dd",
-     "date": "2022-02-17T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "2126db9af0e18db2d5e56ea13b20419b",
-     "title": "第２話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/2126db9af0e18db2d5e56ea13b20419b",
-     "date": "2022-02-10T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "63993cffb920177bead3e9df81a55996",
-     "title": "第１話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/63993cffb920177bead3e9df81a55996",
-     "date": "2022-02-10T15:00:00.000Z",
-     "firstSeen": null
-    }
-   ]
-  },
   "https://rookie.shonenjump.com/series/zGZPbQ86a78": {
    "name": "ファンタズマ・リリィ",
    "episodes": [
@@ -1133,6 +1060,112 @@
     }
    ]
   },
+  "https://comic-days.com/rss/series/2550912964517490278": {
+   "name": "絶対死なないステラ姫",
+   "episodes": [
+    {
+     "guid": "comicdays:episode:12207421984094176001",
+     "title": "第２４話　絶対２代目にならない(後編)②",
+     "url": "https://comic-days.com/episode/12207421984094176001",
+     "date": "2026-11-09T15:00:00.000Z",
+     "firstSeen": "2026-11-10T04:51:24.270Z"
+    },
+    {
+     "guid": "comicdays:episode:12207421984094175998",
+     "title": "第２４話　絶対２代目にならない(後編)①",
+     "url": "https://comic-days.com/episode/12207421984094175998",
+     "date": "2026-11-02T15:00:00.000Z",
+     "firstSeen": "2026-11-03T04:10:16.980Z"
+    },
+    {
+     "guid": "comicdays:episode:2550912964546522823",
+     "title": "第１話　絶対転生しない②",
+     "url": "https://comic-days.com/episode/2550912964546522823",
+     "date": "2024-09-09T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "comicdays:episode:2550912964546522818",
+     "title": "第１話　絶対転生しない①",
+     "url": "https://comic-days.com/episode/2550912964546522818",
+     "date": "2024-09-02T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
+  },
+  "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95": {
+   "name": "魔力枯れのダークエルフ",
+   "episodes": [
+    {
+     "guid": "d89b9178641d5acf520854c3bbe67a14",
+     "title": "第１１話　超えるべき壁が見えてる②",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/d89b9178641d5acf520854c3bbe67a14",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
+    },
+    {
+     "guid": "6a45ce5008df90891077b26b6dc2ad92",
+     "title": "第１１話　超えるべき壁が見えてる①",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/6a45ce5008df90891077b26b6dc2ad92",
+     "date": "2026-11-17T15:00:00.000Z",
+     "firstSeen": "2026-11-17T19:26:55.393Z"
+    },
+    {
+     "guid": "94bfc8ba9f6d5b16c183b806aa588d7e",
+     "title": "第３話　星空①",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/94bfc8ba9f6d5b16c183b806aa588d7e",
+     "date": "2026-02-18T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "c2fb7107735238c05c26cfa0fafa5b20",
+     "title": "第２話　昨日よりも",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/c2fb7107735238c05c26cfa0fafa5b20",
+     "date": "2026-01-19T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "af4ef7c663080ea8f20a229df4b3fd0f",
+     "title": "第１話　ダークエルフのアミラ",
+     "url": "https://yanmaga.jp/comics/%E9%AD%94%E5%8A%9B%E6%9E%AF%E3%82%8C%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%AB%E3%83%95/af4ef7c663080ea8f20a229df4b3fd0f",
+     "date": "2025-12-16T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
+  },
+  "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B": {
+   "name": "大ハズレだと追放された転生重騎士はゲーム知識で無双する",
+   "episodes": [
+    {
+     "guid": "b076216d43b5c18f5fcb66d10ba08bfb",
+     "title": "第１８３話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/b076216d43b5c18f5fcb66d10ba08bfb",
+     "date": "2026-10-18T15:00:00.000Z",
+     "firstSeen": "2026-11-12T18:37:54.491Z"
+    },
+    {
+     "guid": "17ed838328d9ff4f6e0c5399547b23dd",
+     "title": "第３話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/17ed838328d9ff4f6e0c5399547b23dd",
+     "date": "2022-02-17T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "2126db9af0e18db2d5e56ea13b20419b",
+     "title": "第２話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/2126db9af0e18db2d5e56ea13b20419b",
+     "date": "2022-02-10T15:00:00.000Z",
+     "firstSeen": null
+    },
+    {
+     "guid": "63993cffb920177bead3e9df81a55996",
+     "title": "第１話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/63993cffb920177bead3e9df81a55996",
+     "date": "2022-02-10T15:00:00.000Z",
+     "firstSeen": null
+    }
+   ]
+  },
   "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7": {
    "name": "糸と鎧",
    "episodes": [
@@ -1172,42 +1205,18 @@
      "firstSeen": null
     }
    ]
-  },
-  "https://comic-days.com/rss/series/2550912964517490278": {
-   "name": "絶対死なないステラ姫",
-   "episodes": [
-    {
-     "guid": "comicdays:episode:12207421984094176001",
-     "title": "第２４話　絶対２代目にならない(後編)②",
-     "url": "https://comic-days.com/episode/12207421984094176001",
-     "date": "2026-11-09T15:00:00.000Z",
-     "firstSeen": "2026-11-10T04:51:24.270Z"
-    },
-    {
-     "guid": "comicdays:episode:12207421984094175998",
-     "title": "第２４話　絶対２代目にならない(後編)①",
-     "url": "https://comic-days.com/episode/12207421984094175998",
-     "date": "2026-11-02T15:00:00.000Z",
-     "firstSeen": "2026-11-03T04:10:16.980Z"
-    },
-    {
-     "guid": "comicdays:episode:2550912964546522823",
-     "title": "第１話　絶対転生しない②",
-     "url": "https://comic-days.com/episode/2550912964546522823",
-     "date": "2024-09-09T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "comicdays:episode:2550912964546522818",
-     "title": "第１話　絶対転生しない①",
-     "url": "https://comic-days.com/episode/2550912964546522818",
-     "date": "2024-09-02T15:00:00.000Z",
-     "firstSeen": null
-    }
-   ]
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257982514030",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "渇欲のウロボロス",
+   "title": "渇欲のウロボロス",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514030",
+   "firstSeen": "2026-11-19T19:12:49.383Z"
+  },
   {
    "key": "https://tonarinoyj.jp/episode/12207421984516805695",
    "kind": "oneshot",
@@ -1468,15 +1477,6 @@
    "title": "幽霊タクシー 今日も逝く",
    "url": "https://shonenjumpplus.com/episode/9253191257689745727",
    "firstSeen": "2026-11-04T18:16:34.346Z"
-  },
-  {
-   "key": "https://www.sunday-webry.com/episode/12207421984447636988",
-   "kind": "new",
-   "site": "サンデーうぇぶり",
-   "series": "Honey Creep",
-   "title": "第1話 運命の相手",
-   "url": "https://www.sunday-webry.com/episode/12207421984447636988",
-   "firstSeen": "2026-11-03T18:07:09.108Z"
   }
  ]
 }
