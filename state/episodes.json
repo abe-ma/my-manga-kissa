@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T19:09:56.240Z",
+ "updatedAt": "2026-11-19T04:39:07.110Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -991,13 +991,6 @@
      "firstSeen": "2026-11-12T18:37:54.491Z"
     },
     {
-     "guid": "d64d271459bfae64f78943b78373df15",
-     "title": "第１８２話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/d64d271459bfae64f78943b78373df15",
-     "date": "2026-10-12T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
      "guid": "17ed838328d9ff4f6e0c5399547b23dd",
      "title": "第３話",
      "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/17ed838328d9ff4f6e0c5399547b23dd",
@@ -1215,6 +1208,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984516805695",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "ギャル☆飯☆ぱんち",
+   "title": "ギャル☆飯☆ぱんち",
+   "url": "https://tonarinoyj.jp/episode/12207421984516805695",
+   "firstSeen": "2026-11-19T04:39:07.110Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257982513915",
    "kind": "oneshot",
@@ -1475,15 +1477,6 @@
    "title": "第1話 運命の相手",
    "url": "https://www.sunday-webry.com/episode/12207421984447636988",
    "firstSeen": "2026-11-03T18:07:09.108Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257538010541",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "ﾒﾛ井くん",
-   "title": "ﾒﾛ井くん",
-   "url": "https://shonenjumpplus.com/episode/9253191257538010541",
-   "firstSeen": "2026-10-31T15:54:33.585Z"
   }
  ]
 }
