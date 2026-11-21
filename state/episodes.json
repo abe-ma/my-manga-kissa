@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T04:23:39.349Z",
+ "updatedAt": "2026-11-21T17:48:12.801Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -325,18 +325,18 @@
    "name": "無敵のスバル",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982514286",
+     "title": "[第29話]無敵のスバル",
+     "url": "https://shonenjumpplus.com/episode/9253191257982514286",
+     "date": "2026-11-21T15:00:00.000Z",
+     "firstSeen": "2026-11-21T17:48:12.801Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257737711505",
      "title": "[第28話]無敵のスバル",
      "url": "https://shonenjumpplus.com/episode/9253191257737711505",
      "date": "2026-11-14T15:00:00.000Z",
      "firstSeen": "2026-11-14T16:46:05.989Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257689746440",
-     "title": "[第27話]無敵のスバル",
-     "url": "https://shonenjumpplus.com/episode/9253191257689746440",
-     "date": "2026-11-07T15:00:00.000Z",
-     "firstSeen": "2026-11-07T16:39:54.790Z"
     },
     {
      "guid": "jump_plus:episode:17107419589536396687",
@@ -1216,6 +1216,15 @@
  },
  "found": [
   {
+   "key": "https://www.sunday-webry.com/episode/12207421984439794931",
+   "kind": "oneshot",
+   "site": "サンデーうぇぶり",
+   "series": "DEMON'S REIGN",
+   "title": "DEMON'S REIGN",
+   "url": "https://www.sunday-webry.com/episode/12207421984439794931",
+   "firstSeen": "2026-11-21T17:48:12.801Z"
+  },
+  {
    "key": "https://shonenjumpplus.com/episode/9253191257707544121",
    "kind": "new",
    "site": "ジャンプ+",
@@ -1475,15 +1484,6 @@
    "title": "エリィアンズ",
    "url": "https://shonenjumpplus.com/episode/9253191257689745915",
    "firstSeen": "2026-11-05T18:21:38.766Z"
-  },
-  {
-   "key": "https://tonarinoyj.jp/episode/12207421984447306219",
-   "kind": "oneshot",
-   "site": "となりのYJ",
-   "series": "ドリンクドランク",
-   "title": "ドリンクドランク",
-   "url": "https://tonarinoyj.jp/episode/12207421984447306219",
-   "firstSeen": "2026-11-05T03:51:04.122Z"
   }
  ]
 }
