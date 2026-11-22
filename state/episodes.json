@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T03:38:39.477Z",
+ "updatedAt": "2026-11-22T18:05:59.966Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -791,11 +791,11 @@
    "name": "となりの席のヤツがそういう目で見てくる",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984481243803",
-     "title": "第119話 泳いだ後に",
-     "url": "https://www.sunday-webry.com/episode/12207421984481243803",
-     "date": "2026-11-08T15:00:00.000Z",
-     "firstSeen": "2026-11-08T16:48:43.816Z"
+     "guid": "sunday_webry:episode:12207421984548200709",
+     "title": "第120話 裸の付き合い",
+     "url": "https://www.sunday-webry.com/episode/12207421984548200709",
+     "date": "2026-11-22T15:00:00.000Z",
+     "firstSeen": "2026-11-22T18:05:59.966Z"
     },
     {
      "guid": "sunday_webry:episode:12207421984387325811",
@@ -1216,6 +1216,24 @@
  },
  "found": [
   {
+   "key": "https://shonenjumpplus.com/episode/9253191257982514324",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "ラブユアマークス／ジャンプ＋漫画賞2026年7-8月期",
+   "title": "ラブユアマークス／ジャンプ＋漫画賞2026年7-8月期",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514324",
+   "firstSeen": "2026-11-22T18:05:59.966Z"
+  },
+  {
+   "key": "https://www.sunday-webry.com/episode/12207421984539609620",
+   "kind": "new",
+   "site": "サンデーうぇぶり",
+   "series": "あまねくゼロン",
+   "title": "第1話",
+   "url": "https://www.sunday-webry.com/episode/12207421984539609620",
+   "firstSeen": "2026-11-22T18:05:59.966Z"
+  },
+  {
    "key": "https://www.sunday-webry.com/episode/12207421984439794931",
    "kind": "oneshot",
    "site": "サンデーうぇぶり",
@@ -1466,24 +1484,6 @@
    "title": "Young Panther 19 Buchigillle Knowing",
    "url": "https://shonenjumpplus.com/episode/9253191257689746171",
    "firstSeen": "2026-11-06T17:43:25.876Z"
-  },
-  {
-   "key": "https://tonarinoyj.jp/episode/12207421984447306235",
-   "kind": "oneshot",
-   "site": "となりのYJ",
-   "series": "燕のあやかし画帳",
-   "title": "燕のあやかし画帳",
-   "url": "https://tonarinoyj.jp/episode/12207421984447306235",
-   "firstSeen": "2026-11-06T03:47:45.492Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257689745915",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "エリィアンズ",
-   "title": "エリィアンズ",
-   "url": "https://shonenjumpplus.com/episode/9253191257689745915",
-   "firstSeen": "2026-11-05T18:21:38.766Z"
   }
  ]
 }
