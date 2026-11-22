@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T17:48:12.801Z",
+ "updatedAt": "2026-11-22T03:38:39.477Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -911,17 +911,17 @@
    "name": "ポッピン・ポッピン・ペナルティ",
    "episodes": [
     {
+     "guid": "comicdays:episode:12207421983858385581",
+     "title": "第１１話　所長のとある1日。",
+     "url": "https://comic-days.com/episode/12207421983858385581",
+     "date": "2026-11-22T03:00:00.000Z",
+     "firstSeen": "2026-11-22T03:38:39.477Z"
+    },
+    {
      "guid": "comicdays:episode:12207421983858385578",
      "title": "第１０話　わたしは生涯の終わりに貴石に触れるのだ",
      "url": "https://comic-days.com/episode/12207421983858385578",
      "date": "2026-11-08T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "comicdays:episode:12207421983858385573",
-     "title": "第９話　がんばれ　トマト！",
-     "url": "https://comic-days.com/episode/12207421983858385573",
-     "date": "2026-10-25T03:00:00.000Z",
      "firstSeen": null
     },
     {
