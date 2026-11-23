@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T04:12:12.159Z",
+ "updatedAt": "2026-11-23T22:16:32.695Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -831,11 +831,11 @@
    "name": "#ギャルとギャルの百合",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984500100363",
-     "title": "#30 #うちらも",
-     "url": "https://www.sunday-webry.com/episode/12207421984500100363",
-     "date": "2026-11-09T15:00:00.000Z",
-     "firstSeen": "2026-11-09T21:08:56.920Z"
+     "guid": "sunday_webry:episode:12207421984549118480",
+     "title": "#31 #足したかったのよ",
+     "url": "https://www.sunday-webry.com/episode/12207421984549118480",
+     "date": "2026-11-23T15:00:00.000Z",
+     "firstSeen": "2026-11-23T22:16:32.695Z"
     },
     {
      "guid": "sunday_webry:episode:2551460909968584080",
@@ -1144,6 +1144,13 @@
    "name": "糸と鎧",
    "episodes": [
     {
+     "guid": "093f77da3029f78ad14e3b92558bf8f7",
+     "title": "第９話　島からの脱出",
+     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/093f77da3029f78ad14e3b92558bf8f7",
+     "date": "2026-11-23T15:00:00.000Z",
+     "firstSeen": "2026-11-23T22:16:32.695Z"
+    },
+    {
      "guid": "d06dcbfc53b1fe1e3db6d25e3d28cbc1",
      "title": "第８話　ダンの希望",
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/d06dcbfc53b1fe1e3db6d25e3d28cbc1",
@@ -1156,13 +1163,6 @@
      "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/7fad225c882095e4a93bce98c9af6060",
      "date": "2026-11-09T15:00:00.000Z",
      "firstSeen": "2026-11-09T21:08:56.920Z"
-    },
-    {
-     "guid": "0d4915319ccc6790996e6f02f7daf1e8",
-     "title": "第６話　呵責の呪い",
-     "url": "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/0d4915319ccc6790996e6f02f7daf1e8",
-     "date": "2026-11-02T15:00:00.000Z",
-     "firstSeen": "2026-11-02T20:32:35.095Z"
     },
     {
      "guid": "aaa94e7c4cf64415bd93917dca910c31",
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257982514437",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "手繋ぎ行者／ジャンプ＋漫画賞2026年7-8月期",
+   "title": "手繋ぎ行者／ジャンプ＋漫画賞2026年7-8月期",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514437",
+   "firstSeen": "2026-11-23T22:16:32.695Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257982514324",
    "kind": "oneshot",
@@ -1475,15 +1484,6 @@
    "title": "奥上家の屋上",
    "url": "https://www.sunday-webry.com/episode/12207421984485953687",
    "firstSeen": "2026-11-07T16:39:54.790Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257689746171",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "Young Panther 19 Buchigillle Knowing",
-   "title": "Young Panther 19 Buchigillle Knowing",
-   "url": "https://shonenjumpplus.com/episode/9253191257689746171",
-   "firstSeen": "2026-11-06T17:43:25.876Z"
   }
  ]
 }
