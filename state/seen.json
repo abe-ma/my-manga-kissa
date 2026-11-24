@@ -520,14 +520,16 @@
    "sunday_webry:episode:12207421984440175019",
    "sunday_webry:episode:12207421984467508049",
    "sunday_webry:episode:12207421984504574421",
-   "sunday_webry:episode:12207421984535973165"
+   "sunday_webry:episode:12207421984535973165",
+   "sunday_webry:episode:12207421984565794740"
   ],
   "https://www.sunday-webry.com/rss/series/12207421983634708480": [
    "sunday_webry:episode:12207421984416966188",
    "sunday_webry:episode:12207421984349490995",
    "sunday_webry:episode:12207421983882453651",
    "sunday_webry:episode:12207421983754043156",
-   "sunday_webry:episode:12207421983634726857"
+   "sunday_webry:episode:12207421983634726857",
+   "sunday_webry:episode:12207421984565790272"
   ],
   "https://www.sunday-webry.com/rss/series/12207421984250781084": [
    "sunday_webry:episode:12207421984401450833",
@@ -598,7 +600,8 @@
    "sunday_webry:episode:2550912965879578039",
    "sunday_webry:episode:2550912965846148434",
    "sunday_webry:episode:2550912965844751366",
-   "sunday_webry:episode:12207421984531638433"
+   "sunday_webry:episode:12207421984531638433",
+   "sunday_webry:episode:12207421984565796971"
   ],
   "https://www.sunday-webry.com/rss/series/2550689798705990744": [
    "sunday_webry:episode:12207421984387325811",
@@ -955,7 +958,8 @@
    "jump_plus:episode:9253191256637716071",
    "jump_plus:episode:9253191257689745661",
    "jump_plus:episode:9253191257737707418",
-   "jump_plus:episode:9253191257982513879"
+   "jump_plus:episode:9253191257982513879",
+   "jump_plus:episode:9253191257982514598"
   ],
   "https://yanmaga.jp/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7": [
    "5bf099c0ae5511a8be5b7a21a7b04621",
@@ -1040,6 +1044,8 @@
   "https://shonenjumpplus.com/episode/9253191257982514324",
   "https://www.sunday-webry.com/episode/12207421984539609620",
   "https://shonenjumpplus.com/episode/9253191257982514437",
-  "https://tonarinoyj.jp/episode/12207421984544056481"
+  "https://tonarinoyj.jp/episode/12207421984544056481",
+  "https://shonenjumpplus.com/episode/9253191257982514560",
+  "https://shonenjumpplus.com/episode/9253191257982514652"
  ]
 }
