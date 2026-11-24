@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T22:16:32.695Z",
+ "updatedAt": "2026-11-24T07:11:57.704Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -445,6 +445,13 @@
    "name": "スライム聖女",
    "episodes": [
     {
+     "guid": "tonarino_yj:episode:12207421984544056477",
+     "title": "[第69話] スライム聖女",
+     "url": "https://tonarinoyj.jp/episode/12207421984544056477",
+     "date": "2026-11-24T03:00:00.000Z",
+     "firstSeen": "2026-11-24T07:11:57.704Z"
+    },
+    {
      "guid": "tonarino_yj:episode:12207421984480485127",
      "title": "[第68話] スライム聖女",
      "url": "https://tonarinoyj.jp/episode/12207421984480485127",
@@ -470,13 +477,6 @@
      "title": "[第65話] スライム聖女",
      "url": "https://tonarinoyj.jp/episode/12207421984284937404",
      "date": "2026-09-29T03:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "tonarino_yj:episode:12207421984208929879",
-     "title": "[第64話] スライム聖女",
-     "url": "https://tonarinoyj.jp/episode/12207421984208929879",
-     "date": "2026-09-15T03:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -1184,18 +1184,18 @@
    "name": "絶対死なないステラ姫",
    "episodes": [
     {
+     "guid": "comicdays:episode:12207421984094176005",
+     "title": "第２５話　絶対味を妥協しない(前編)①",
+     "url": "https://comic-days.com/episode/12207421984094176005",
+     "date": "2026-11-23T15:00:00.000Z",
+     "firstSeen": "2026-11-24T07:11:57.704Z"
+    },
+    {
      "guid": "comicdays:episode:12207421984094176001",
      "title": "第２４話　絶対２代目にならない(後編)②",
      "url": "https://comic-days.com/episode/12207421984094176001",
      "date": "2026-11-09T15:00:00.000Z",
      "firstSeen": "2026-11-10T04:51:24.270Z"
-    },
-    {
-     "guid": "comicdays:episode:12207421984094175998",
-     "title": "第２４話　絶対２代目にならない(後編)①",
-     "url": "https://comic-days.com/episode/12207421984094175998",
-     "date": "2026-11-02T15:00:00.000Z",
-     "firstSeen": "2026-11-03T04:10:16.980Z"
     },
     {
      "guid": "comicdays:episode:2550912964546522823",
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984544056481",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "キミの理想はむずかしい",
+   "title": "[テーマ読切：おねえさん] キミの理想は理想は難しい",
+   "url": "https://tonarinoyj.jp/episode/12207421984544056481",
+   "firstSeen": "2026-11-24T07:11:57.704Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257982514437",
    "kind": "oneshot",
@@ -1474,15 +1483,6 @@
    "series": "夜明け前、カタカタ。",
    "title": "夜明け前、カタカタ。",
    "url": "https://www.sunday-webry.com/episode/12207421984439792956",
-   "firstSeen": "2026-11-07T16:39:54.790Z"
-  },
-  {
-   "key": "https://www.sunday-webry.com/episode/12207421984485953687",
-   "kind": "oneshot",
-   "site": "サンデーうぇぶり",
-   "series": "奥上家の屋上",
-   "title": "奥上家の屋上",
-   "url": "https://www.sunday-webry.com/episode/12207421984485953687",
    "firstSeen": "2026-11-07T16:39:54.790Z"
   }
  ]
