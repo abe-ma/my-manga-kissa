@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T05:45:31.654Z",
+ "updatedAt": "2026-11-25T20:15:34.165Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -45,6 +45,13 @@
    "name": "神ヨムふたり",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982514716",
+     "title": "[第23話]神ヨムふたり",
+     "url": "https://shonenjumpplus.com/episode/9253191257982514716",
+     "date": "2026-11-25T15:00:00.000Z",
+     "firstSeen": "2026-11-25T20:15:34.165Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257982513990",
      "title": "[第22話]神ヨムふたり",
      "url": "https://shonenjumpplus.com/episode/9253191257982513990",
@@ -57,13 +64,6 @@
      "url": "https://shonenjumpplus.com/episode/9253191257689745854",
      "date": "2026-11-04T15:00:00.000Z",
      "firstSeen": "2026-11-04T18:16:34.346Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257538010297",
-     "title": "[第20話]神ヨムふたり",
-     "url": "https://shonenjumpplus.com/episode/9253191257538010297",
-     "date": "2026-10-28T15:00:00.000Z",
-     "firstSeen": "2026-10-28T16:51:38.872Z"
     },
     {
      "guid": "jump_plus:episode:9253191257382361344",
@@ -525,11 +525,11 @@
    "name": "廻天のアルバス",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984503980223",
-     "title": "第107話 変わってく",
-     "url": "https://www.sunday-webry.com/episode/12207421984503980223",
-     "date": "2026-11-11T15:00:00.000Z",
-     "firstSeen": "2026-11-11T18:10:25.362Z"
+     "guid": "sunday_webry:episode:12207421984571358287",
+     "title": "第108話 もう一人",
+     "url": "https://www.sunday-webry.com/episode/12207421984571358287",
+     "date": "2026-11-25T15:00:00.000Z",
+     "firstSeen": "2026-11-25T20:15:34.165Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983608463863",
