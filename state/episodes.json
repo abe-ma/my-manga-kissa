@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T20:54:40.139Z",
+ "updatedAt": "2026-11-25T05:45:31.654Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1024,6 +1024,13 @@
    "name": "ファンタズマ・リリィ",
    "episodes": [
     {
+     "guid": "5578366928874786704",
+     "title": "第 127 話",
+     "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZeT5A",
+     "date": null,
+     "firstSeen": "2026-11-25T05:45:31.654Z"
+    },
+    {
      "guid": "5578366928874612546",
      "title": "第 126 話",
      "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZbp0I",
@@ -1050,13 +1057,6 @@
      "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZO63s",
      "date": null,
      "firstSeen": "2026-11-02T02:52:38.704Z"
-    },
-    {
-     "guid": "5578366928873571579",
-     "title": "第 122 話",
-     "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZLxPs",
-     "date": null,
-     "firstSeen": "2026-10-28T02:41:26.415Z"
     }
    ]
   },
@@ -1215,6 +1215,24 @@
   }
  },
  "found": [
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984454510603",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "高嶺の花たれ 秘河白蓮",
+   "title": "高嶺の花たれ 秘河白蓮",
+   "url": "https://tonarinoyj.jp/episode/12207421984454510603",
+   "firstSeen": "2026-11-25T05:45:31.654Z"
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984544056494",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "♡劇薬お姉さん♡",
+   "title": "[テーマ読切：おねえさん] ♡劇薬お姉さん♡",
+   "url": "https://tonarinoyj.jp/episode/12207421984544056494",
+   "firstSeen": "2026-11-25T05:45:31.654Z"
+  },
   {
    "key": "https://shonenjumpplus.com/episode/9253191257982514560",
    "kind": "new",
@@ -1466,24 +1484,6 @@
    "title": "[第1話]幻覚ピカソ",
    "url": "https://shonenjumpplus.com/episode/9253191257707801284",
    "firstSeen": "2026-11-11T18:10:25.362Z"
-  },
-  {
-   "key": "https://www.sunday-webry.com/episode/12207421984407198424",
-   "kind": "oneshot",
-   "site": "サンデーうぇぶり",
-   "series": "平太郎は驚かない",
-   "title": "平太郎は驚かない",
-   "url": "https://www.sunday-webry.com/episode/12207421984407198424",
-   "firstSeen": "2026-11-10T18:20:34.625Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257737706320",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "怪奇！まかぶる家",
-   "title": "怪奇！まかぶる家",
-   "url": "https://shonenjumpplus.com/episode/9253191257737706320",
-   "firstSeen": "2026-11-09T21:08:56.920Z"
   }
  ]
 }
