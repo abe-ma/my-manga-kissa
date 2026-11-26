@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T20:15:34.165Z",
+ "updatedAt": "2026-11-26T05:36:11.827Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1216,6 +1216,24 @@
  },
  "found": [
   {
+   "key": "https://tonarinoyj.jp/episode/12207421984544056543",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "朝飯前の師弟",
+   "title": "朝飯前の師弟",
+   "url": "https://tonarinoyj.jp/episode/12207421984544056543",
+   "firstSeen": "2026-11-26T05:36:11.827Z"
+  },
+  {
+   "key": "https://tonarinoyj.jp/episode/12207421984544056504",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "春はめぐる",
+   "title": "[テーマ読切：おねえさん] 春はめぐる",
+   "url": "https://tonarinoyj.jp/episode/12207421984544056504",
+   "firstSeen": "2026-11-26T05:36:11.827Z"
+  },
+  {
    "key": "https://tonarinoyj.jp/episode/12207421984454510603",
    "kind": "oneshot",
    "site": "となりのYJ",
@@ -1466,24 +1484,6 @@
    "title": "コハクさんのへべれけ事情",
    "url": "https://tonarinoyj.jp/episode/12207421984454510595",
    "firstSeen": "2026-11-12T04:28:29.969Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257737707581",
-   "kind": "oneshot",
-   "site": "ジャンプ+",
-   "series": "或るモノからの依頼X",
-   "title": "或るモノからの依頼X",
-   "url": "https://shonenjumpplus.com/episode/9253191257737707581",
-   "firstSeen": "2026-11-11T18:10:25.362Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257707801284",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "幻覚ピカソ",
-   "title": "[第1話]幻覚ピカソ",
-   "url": "https://shonenjumpplus.com/episode/9253191257707801284",
-   "firstSeen": "2026-11-11T18:10:25.362Z"
   }
  ]
 }
