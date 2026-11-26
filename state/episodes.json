@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T05:36:11.827Z",
+ "updatedAt": "2026-11-26T19:53:36.029Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -85,6 +85,13 @@
    "name": "世界を繋ぎ尽くすインターネット巫女",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982514856",
+     "title": "[イラスト]世界を繋ぎ尽くすインターネット巫女",
+     "url": "https://shonenjumpplus.com/episode/9253191257982514856",
+     "date": "2026-11-26T15:00:00.000Z",
+     "firstSeen": "2026-11-26T19:53:36.029Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257982514161",
      "title": "[21話]世界を繋ぎ尽くすインターネット巫女",
      "url": "https://shonenjumpplus.com/episode/9253191257982514161",
@@ -110,13 +117,6 @@
      "title": "[18話]世界を繋ぎ尽くすインターネット巫女",
      "url": "https://shonenjumpplus.com/episode/9253191257382361486",
      "date": "2026-10-22T15:00:00.000Z",
-     "firstSeen": null
-    },
-    {
-     "guid": "jump_plus:episode:9253191257227140373",
-     "title": "[17話]世界を繋ぎ尽くすインターネット巫女",
-     "url": "https://shonenjumpplus.com/episode/9253191257227140373",
-     "date": "2026-10-15T15:00:00.000Z",
      "firstSeen": null
     }
    ]
@@ -285,6 +285,13 @@
    "name": "ブヨトピア",
    "episodes": [
     {
+     "guid": "jump_plus:episode:9253191257982514809",
+     "title": "[第29話]ブヨトピア",
+     "url": "https://shonenjumpplus.com/episode/9253191257982514809",
+     "date": "2026-11-26T15:00:00.000Z",
+     "firstSeen": "2026-11-26T19:53:36.029Z"
+    },
+    {
      "guid": "jump_plus:episode:9253191257982514089",
      "title": "[第28話]ブヨトピア",
      "url": "https://shonenjumpplus.com/episode/9253191257982514089",
@@ -304,13 +311,6 @@
      "url": "https://shonenjumpplus.com/episode/9253191257689746017",
      "date": "2026-11-05T15:00:00.000Z",
      "firstSeen": "2026-11-05T18:21:38.766Z"
-    },
-    {
-     "guid": "jump_plus:episode:9253191257538010377",
-     "title": "[第26話]ブヨトピア",
-     "url": "https://shonenjumpplus.com/episode/9253191257538010377",
-     "date": "2026-10-29T15:00:00.000Z",
-     "firstSeen": "2026-10-29T17:07:19.742Z"
     },
     {
      "guid": "jump_plus:episode:9253191254783402779",
@@ -711,11 +711,11 @@
    "name": "神引きのモナーク",
    "episodes": [
     {
-     "guid": "sunday_webry:episode:12207421984543444753",
-     "title": "第26話 タケモトの過去2",
-     "url": "https://www.sunday-webry.com/episode/12207421984543444753",
-     "date": "2026-11-19T15:00:00.000Z",
-     "firstSeen": "2026-11-19T19:12:49.383Z"
+     "guid": "sunday_webry:episode:12207421984576041679",
+     "title": "第27話 タケモトの過去3",
+     "url": "https://www.sunday-webry.com/episode/12207421984576041679",
+     "date": "2026-11-26T15:00:00.000Z",
+     "firstSeen": "2026-11-26T19:53:36.029Z"
     },
     {
      "guid": "sunday_webry:episode:12207421983832812685",
@@ -984,18 +984,18 @@
    "name": "大ハズレだと追放された転生重騎士はゲーム知識で無双する",
    "episodes": [
     {
+     "guid": "41a603e89f0b43db4ba9b6a4ed897b52",
+     "title": "第１８５話",
+     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/41a603e89f0b43db4ba9b6a4ed897b52",
+     "date": "2026-11-08T15:00:00.000Z",
+     "firstSeen": "2026-11-26T19:53:36.029Z"
+    },
+    {
      "guid": "970a85c7845a21681e51b8b28d0beeff",
      "title": "第１８４話",
      "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/970a85c7845a21681e51b8b28d0beeff",
      "date": "2026-10-25T15:00:00.000Z",
      "firstSeen": "2026-11-20T04:29:39.042Z"
-    },
-    {
-     "guid": "b076216d43b5c18f5fcb66d10ba08bfb",
-     "title": "第１８３話",
-     "url": "https://yanmaga.jp/comics/%E5%A4%A7%E3%83%8F%E3%82%BA%E3%83%AC%E3%81%A0%E3%81%A8%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B/b076216d43b5c18f5fcb66d10ba08bfb",
-     "date": "2026-10-18T15:00:00.000Z",
-     "firstSeen": "2026-11-12T18:37:54.491Z"
     },
     {
      "guid": "17ed838328d9ff4f6e0c5399547b23dd",
@@ -1215,6 +1215,15 @@
   }
  },
  "found": [
+  {
+   "key": "https://shonenjumpplus.com/episode/9253191257982514778",
+   "kind": "oneshot",
+   "site": "ジャンプ+",
+   "series": "不倫男殺す同盟",
+   "title": "不倫男殺す同盟",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514778",
+   "firstSeen": "2026-11-26T19:53:36.029Z"
+  },
   {
    "key": "https://tonarinoyj.jp/episode/12207421984544056543",
    "kind": "oneshot",
@@ -1474,15 +1483,6 @@
    "series": "あのこの冷蔵庫",
    "title": "あのこの冷蔵庫",
    "url": "https://tonarinoyj.jp/episode/12207421984475668997",
-   "firstSeen": "2026-11-12T04:28:29.969Z"
-  },
-  {
-   "key": "https://tonarinoyj.jp/episode/12207421984454510595",
-   "kind": "oneshot",
-   "site": "となりのYJ",
-   "series": "コハクさんのへべれけ事情",
-   "title": "コハクさんのへべれけ事情",
-   "url": "https://tonarinoyj.jp/episode/12207421984454510595",
    "firstSeen": "2026-11-12T04:28:29.969Z"
   }
  ]
