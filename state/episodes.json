@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T19:41:55.585Z",
+ "updatedAt": "2026-11-28T05:05:48.653Z",
  "series": {
   "https://shonenjumpplus.com/rss/series/17106567254826529090": {
    "name": "英雄機関",
@@ -1216,6 +1216,15 @@
  },
  "found": [
   {
+   "key": "https://tonarinoyj.jp/episode/12207421984544056515",
+   "kind": "oneshot",
+   "site": "となりのYJ",
+   "series": "ヒミツの遊びは煙のなかで",
+   "title": "[テーマ読切：おねえさん] ヒミツの遊びは煙の中で",
+   "url": "https://tonarinoyj.jp/episode/12207421984544056515",
+   "firstSeen": "2026-11-28T05:05:48.653Z"
+  },
+  {
    "key": "https://tonarinoyj.jp/episode/12207421984544056511",
    "kind": "oneshot",
    "site": "となりのYJ",
@@ -1475,15 +1484,6 @@
    "title": "これから死ぬ",
    "url": "https://shonenjumpplus.com/episode/9253191257737710940",
    "firstSeen": "2026-11-13T18:11:17.203Z"
-  },
-  {
-   "key": "https://shonenjumpplus.com/episode/9253191257803633641",
-   "kind": "new",
-   "site": "ジャンプ+",
-   "series": "そんな、14歳。／試し読み",
-   "title": "[第1話]そんな、14歳。",
-   "url": "https://shonenjumpplus.com/episode/9253191257803633641",
-   "firstSeen": "2026-11-12T18:37:54.491Z"
   }
  ]
 }
